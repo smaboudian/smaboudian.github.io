@@ -240,3 +240,38 @@ fieldset[disabled] .btn-primary.active {
   background-color: sandybrown;
   border-color: sandybrown;
 }
+
+
+/* Style all font awesome (fa) icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect  */
+.fa:hover {
+  background: #e49d97;
+  color: white;
+/*   opacity: 0.7; */
+}
+
+/* Set a specific color for each icon */
+/* Twitter */
+.fa-twitter {
+  background: #a15968;
+  color: white;
+}
+/* LinkedIn */
+.fa-linkedin {
+  background: #a15968;
+  color: white;
+}
+/* GitHub */
+.fa-github {
+  background: #a15968;
+  color: white;
+}
