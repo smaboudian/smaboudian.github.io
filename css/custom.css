@@ -244,16 +244,12 @@ fieldset[disabled] .btn-primary.active {
 
 /* Style all font awesome (fa) icons */
 .fa {
-  height: 1.2em;
-  width: 1.2em;
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
   text-align: center;
-  margin: 0.5em;
-  font-size: 4em;
-  color: #ffffff;
-  border: 2px solid #e49d97;
-  border-radius: 50%;
-  padding: 0.5em;
-  transition: all .5s ease;
+  text-decoration: none;
+  border: 1px solid #e49d97;
 }
 
 /* Add a hover effect  */
