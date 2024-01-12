@@ -172,7 +172,7 @@ a:focus {
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
   color: #333;
-  background-color: #de9d7e;
+  background-color: #A15968;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
@@ -191,19 +191,19 @@ a:focus {
 .btn-primary.focus {
   color: #fff;
   background-color: #6772a3;
-  border-color: #fff;
+  border-color: #2c3667;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #A15968;
-  border-color: #6772a3;
+  background-color: #e49d97;
+  border-color: #A15968;
 }
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
   color: #fff;
   background-color: #6772a3;
-  border-color: #fff;
+  border-color: #2c3667;
 }
 .btn-primary:active:hover,
 .btn-primary.active:hover,
