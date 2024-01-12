@@ -259,17 +259,17 @@ fieldset[disabled] .btn-primary.active {
 
 /* Set a specific color for each icon */
 /* Twitter */
-.fa-twitter {
+.fa-twitter-square {
   background: #a15968;
   color: white;
 }
 /* LinkedIn */
-.fa-linkedin {
+.fa-linkedin-square {
   background: #a15968;
   color: white;
 }
 /* GitHub */
-.fa-github {
+.fa-github-square {
   background: #a15968;
   color: white;
 }
