@@ -79,9 +79,9 @@ Selected Presentations
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Co-Instructor, Psych 298: Quantitative Analysis and Coding Knowledge
+* Graduate Student Instructor, Biology C61: Foundational Neuroscience
+* Graduate Student Instructor, Public Health 129: The Aging Human Brain
   
 Service and leadership
 ======
