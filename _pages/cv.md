@@ -85,13 +85,13 @@ Teaching
   
 Service and leadership
 ======
-Departmental Service
+**Departmental Service**
 * Helen Wills Neuroscience Institute PhD Program Steering Committee [2023-present]
 * Helen Wills Neuroscience Institute Diversity, Equity, & Inclusion Committee [2020-present]
 * Helen Wills Neuroscience Institute Bootcamp Committee [2021, 2022]
 * Helen Wills Neuroscience Institute Recruitment Committee [2021-2024]
 
-Science Communication and Outreach 
+**Science Communication and Outreach**
 * Steering Committee Member & Team Lead, Community Resources for Science (nonprofit) [2020-present]
   * Volunteer for Bay Area Scientists in Schools (BASIS), a program that brings science education resources to local TK-8 schools in historically marginalized and underserved communities 
   * Campus Steering Committee Member: lead campus recruitment, outreach, & event coordination efforts 
