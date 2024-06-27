@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing)
+
 Education
 ======
 * Ph.D. Candidate, Neuroscience, UC Berkeley (Fall 2020–Present) 
