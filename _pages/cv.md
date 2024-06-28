@@ -12,14 +12,16 @@ redirect_from:
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
 <h2>Education</h2>
 <ul>
-        <li><b>Ph.D. Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
-        <li><b>B.A. Cognitive Science with Bioengineering Minor</b>, UC Berkeley(May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</li></ul>
+        <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
+        <li><b>B.A. Cognitive Science, Bioengineering Minor</b>: UC Berkeley (2020)</li></ul>
 
 <h2>Awards &amp; Honors</h2>
 <ul>
+        <li><b>Young Investigator Award for Excellence in Research on Alzheimer’s Disease</b>, Alzheimer’s Association (2024)</li>
+        <li><b>NRSA F31 Award (Individual Predoctoral Fellowship)</b>, National Institute on Aging, NIH (2024)</li>
         <li><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</li>
-        <li><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</li>
-        <li><b>Honorable Mention, NSF Graduate Research Fellowships Program (GRFP)</b> (2020, 2021)</li>
+        <li><b>Honorable Mention, Predoctoral Fellowship</b>, Ford Foundation (2021)</li>
+        <li><b>Honorable Mention, Graduate Research Fellowships Program (GRFP)</b>, NSF (2020, 2021)</li>
         <li><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: represents the highest achievement by the top graduating student in the department (2020)</li>
         <li><b>Summer Undergraduate Research Fellowship (SURF)</b>, UC Berkeley L&S Sciences (2019)</li>
         <li><b>Diversity Research Award</b>, Scientific Research Network on Decision Neuroscience and Aging (2019)</li>
