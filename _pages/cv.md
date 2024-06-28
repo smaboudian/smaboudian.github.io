@@ -11,24 +11,25 @@ redirect_from:
 
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
 <h3>Education</h3>
-    <p><b>UC Berkeley, Helen Wills Neuroscience Institute (HWNI)</b>
-    <br>PhD student, Neuroscience (Fall 2020–)</p>
-    <p><b>UC Berkeley, College of Letters and Sciences</b>
-    <br>B.A. Cognitive Science, Bioengineering Minor (May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</p>
+    <ul>
+        <li><b>PhD Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
+        <li><b>B.A. Cognitive Science with Bioengineering Minor</b>, UC Berkeley(May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</li></ul>
 
 <h3>Awards &amp; Honors</h3>
-    <p><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</p>
-    <p><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</p>
-    <p><b>Honorable Mention, NSF Graduate Research Fellowships Program (GRFP)</b> (2020, 2021)</p>
-    <p><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: represents the highest achievement by the top graduating student in the department (2020)</p>
-    <p><b>Summer Undergraduate Research Fellowship (SURF)</b>, UC Berkeley L&S Sciences (2019)</p>
-    <p><b>Diversity Research Award</b>, Scientific Research Network on Decision Neuroscience and Aging (2019)</p>
-    <p><b>Amgen Scholars Fellowship</b>, Columbia University (2018)</p>
-    <p><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship recognizing students who demonstrate innovative, initiative-driven leadership</p>
+    <ul>
+        <li><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</li>
+        <li><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</li>
+        <li><b>Honorable Mention, NSF Graduate Research Fellowships Program (GRFP)</b> (2020, 2021)</li>
+        <li><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: represents the highest achievement by the top graduating student in the department (2020)</li>
+        <li><b>Summer Undergraduate Research Fellowship (SURF)</b>, UC Berkeley L&S Sciences (2019)</li>
+        <li><b>Diversity Research Award</b>, Scientific Research Network on Decision Neuroscience and Aging (2019)</li>
+        <li><b>Amgen Scholars Fellowship</b>, Columbia University (2018)</li>
+        <li><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship recognizing students who demonstrate innovative, initiative-driven leadership</li>
+    </ul>
 
 
 <h3>Research Projects</h3>
-    <p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
+<p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
       <ul>
         <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD), and relationships between individual variability in cortical folding, vulnerability to AD-related pathology, and cognition (using MRI and PET imaging)</li>
       </ul></p>
