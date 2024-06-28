@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
-<h3>Education</h3>
+<h2>Education</h2>
 <ul>
         <li><b>Ph.D. Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
         <li><b>B.A. Cognitive Science with Bioengineering Minor</b>, UC Berkeley(May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</li></ul>
 
-<h3>Awards &amp; Honors</h3>
+<h2>Awards &amp; Honors</h2>
 <ul>
         <li><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</li>
         <li><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</li>
@@ -28,7 +28,7 @@ redirect_from:
     </ul>
 
 
-<h3>Research Projects</h3>
+<h2>Research Projects</h2>
 <p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
       <ul>
         <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD), and relationships between individual variability in cortical folding, vulnerability to AD-related pathology, and cognition (using MRI and PET imaging)</li>
@@ -48,7 +48,7 @@ redirect_from:
   <p><b>Adesnik Lab</b>, UC Berkeley (2017-2018)</p>
 
 
-  <h3>Publications &amp; Presentations</h3>
+  <h2>Publications &amp; Presentations</h2>
 	        <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
 
   <p><b>Publications</b></p>
@@ -73,21 +73,21 @@ redirect_from:
 
 
 
-<h3>Teaching</h3>
+<h2>Teaching</h2>
     <p><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023)</p>
     <p><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023)</p>
     <p><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021)</p>
     <p><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science,(2017)</p>
     
 
-<h3>Departmental Service</h3>
+<h2>Departmental Service</h2>
     <p><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</p> 
     <p><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</p>
     <p><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</p> 
     <p><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions </p> 
 
 
-<h3>Outreach</h3>
+<h2>Outreach</h2>
     <p><b>Community Resources for Science (CRS), Steering Committee Member & Team Leader</b> (2020-)
         <ul>
         <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
