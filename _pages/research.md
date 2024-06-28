@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: "Highlights from Select Research Projects and Interests"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h1>Highlights from Select Research Projects and Interests</h1>
 
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we investigate relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
