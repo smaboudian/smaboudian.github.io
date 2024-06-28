@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
+<a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="80%"></a>
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we investigate relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
 
@@ -16,8 +17,10 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
   <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
 </ul>
 
+<hr>
 
 
+<a href="https://www.nature.com/articles/s42003-023-04953-5"><img src="/project_figs/CommunBiol2024_Fig1.png" alt="Willbrand, Maboudian et al., JNeurosci 2024 Figure 1" style="80%"></a>
 <h2>Tertiary sulci in evolution and disorder</h2>
 Traditional neuroanatomy studies have largely overlooked tertiary sulci — the smallest, shallowest, and most individually-variable folds in the brain. These variable sulci are the evolutionarily-newest and latest-developing cortical indentations, and recent work suggests their development is in turn related to the development of various higher-order cognitive functions (e.g., reasoning) and neuropsychiatric disorders. This series of projects seeks to improve our understanding of the evolution of these structures and the relationships between their morphology and neuropsychiatric symptoms. 
 
@@ -29,6 +32,7 @@ Traditional neuroanatomy studies have largely overlooked tertiary sulci — the 
   <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, <b>Maboudian SA</b>, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Under review)</li>
 </ul>
 
+<hr>
 
 
 <h2>Contributions of memory to decision-making impairments in dementia</h2>
