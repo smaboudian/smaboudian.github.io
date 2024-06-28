@@ -64,13 +64,14 @@ $dark-indigo                : #2c3667;
 $light-indigo               : #6772a3;
 $dark-maroon                : #A15968;
 $light-peach                : #e49d97;
+$cream                      : #f7edde;
 
-$body-color                 : #f7edde;
+$body-color                 : $cream;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $light-indigo;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
