@@ -56,24 +56,21 @@ redirect_from:
      <p><i>*Equal contribution</i></p>
 <p><b>Publications</b></p>
     <ol>
-	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
-	    <li>Willbrand E*, Maboudian S*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
-	    <li>Maboudian S, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
-	    <li>Willbrand EH*, Maboudian SA, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (Submitted)</li>
-	    <li>Kelly JP, Willbrand EH, Chen X, Maboudian SA, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
-	    <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, Maboudian SA, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Under review)</li>
+	    <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
+	    <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
+	    <li><b>Maboudian S</b>, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
+	    <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (Submitted)</li>
+	    <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
+	    <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, <b>Maboudian SA</b>, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Under review)</li>
     </ol>
   
 <p><b>Presentations</b></p>
     <ol>
-	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. Presented at: 2024 ADRC Researchers' Symposium, UC Davis</li>
+	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. Talk presented at: 2024 ADRC Researchers' Symposium, UC Davis</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
 	    <li>Maboudian S*, Willbrand E*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. Organization for Human Brain Mapping 2023. Poster.</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. Society for Neuroscience 2022. Poster #445.03</li>
 	    <li>Maboudian S, Zhang Z, Hsu M. Semantic Fluency Visualization to Improve Characterization of Memory Deficits in Dementia. (2019). Aging Research and Technology Summit 2019. Poster.</li>
-	    <li>Oral Presentation. SURF 2019 Conference, UC Berkeley. (2019).</li>
-	    <li>Oral Presentation. Cognitive Neuroscience Graduate Colloquium, UC Berkeley. (2018).</li>
-	    <li>Oral Presentation. Columbia University, Amgen Scholars program seminar. (2018).</li>
     </ol>
 
 
@@ -123,7 +120,7 @@ redirect_from:
   
   <p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021): 
         <ul>
-        <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series that highlights the stories of professors in neuroscience to normalize different backgrounds and journeys 
+        <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series highlighting the stories of professors in neuroscience to normalize different backgrounds and journeys </li>
         </ul></p> 
 
 
