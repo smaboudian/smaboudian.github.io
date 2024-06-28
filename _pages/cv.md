@@ -12,7 +12,7 @@ redirect_from:
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
 <h3>Education</h3>
 <ul>
-        <li><b>PhD Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
+        <li><b>Ph.D. Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
         <li><b>B.A. Cognitive Science with Bioengineering Minor</b>, UC Berkeley(May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</li></ul>
 
 <h3>Awards &amp; Honors</h3>
