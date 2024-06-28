@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Other Projects</h1>
 
 <h2>Science Education: Example Lessons</h2>
 
