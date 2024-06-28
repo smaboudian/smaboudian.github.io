@@ -50,8 +50,8 @@ redirect_from:
 
 
 <h2>Publications &amp; Presentations</h2>
-	        <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
-
+     <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
+     <p><i>*Equal contribution</i></p>
 <p><b>Publications</b></p>
     <ol>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
@@ -64,7 +64,7 @@ redirect_from:
   
 <p><b>Presentations</b></p>
     <ol>
-	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
+	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. Presented at: 2024 ADRC Researchers' Symposium, UC Davis</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
 	    <li>Maboudian S*, Willbrand E*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. Organization for Human Brain Mapping 2023. Poster.</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. Society for Neuroscience 2022. Poster #445.03</li>
@@ -73,57 +73,55 @@ redirect_from:
 	    <li>Oral Presentation. Cognitive Neuroscience Graduate Colloquium, UC Berkeley. (2018).</li>
 	    <li>Oral Presentation. Columbia University, Amgen Scholars program seminar. (2018).</li>
     </ol>
-    <p><i>*Co-first author</i></p>
 
 
 
 <h2>Teaching</h2>
-    <p><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023)</p>
-    <p><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023)</p>
-    <p><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021)</p>
-    <p><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science,(2017)</p>
+<ul>
+    <li><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023) </li>
+    <li><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023) </li>
+    <li><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021) </li>
+    <li><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science,(2017) </li>
+</ul>
     
 
 <h2>Departmental Service</h2>
-    <p><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</p> 
-    <p><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</p>
-    <p><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</p> 
-    <p><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions </p> 
+<ul>
+    <li><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</li>
+    <li><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</li>
+    <li><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</li>
+    <li><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions</li>
+</ul>
 
 
 <h2>Outreach</h2>
-    <p><b>Community Resources for Science (CRS), Steering Committee Member & Team Leader</b> (2020-)
+<p><b>Steering Committee Member & Team Lead, Community Resources for Science (CRS)</b> (2020-)
         <ul>
         <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
 	<li>Campus Steering Committee Member: lead campus outreach recruitment and coordination</li>
-        <li>Team Leader and Instructor: responsible for training team of teachers, scheduling lessons, & teaching</li>
+        <li>Team Lead and Instructor: responsible for training team of teachers, scheduling lessons, & teaching</li>
         <li>Lesson Developer: created neuroscience lesson based on state teaching standards; lesson has been taught to >800 local students by my team, in both English and Spanish</li>
         </ul></p>
-    <p><b>Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference</b> (2023-)
+
+<p><b>Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference</b> (2023-)
         <ul>
         <li>Developed and taught neuroanatomy workshop for <a href="https://eyh.berkeley.edu/">EYH</a>, a conference to introduce middle-school girls to STEM fields</li>
 	</ul></p>	    
-    <p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
+    
+  <p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
         <ul>
         <li>Developed and taught lecture on Clinical Applications of Cognitive Neuroscience for high school Cognitive Neuroscience course</li>
-	</ul></p>
+	</ul>
 	    
   <p><b>Project SHORT, Mentor </b> (2021-2023) 
         <ul>
         <li>Project SHORT (Students for Higher-Ed Opportunities and Representation in Training) offers pro bono mentorship for students from underrepresented backgrounds interested in graduate or medical school</li>
         <li>Mentored students interested in applying to graduate school and assisted with application preparation</li>
         </ul></p> 
-    <p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021): 
+  
+  <p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021): 
         <ul>
         <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series that highlights the stories of professors in neuroscience to normalize different backgrounds and journeys 
         </ul></p> 
-    <p><b>Cognitive Science Student Association (CSSA),</b> President (2019-2020); Vice President (2018-2019); Secretary (2017-2018)
-      <br>CSSA outreach program:
-      <ul>
-        <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a>: brain anatomy and brain/mental health lessons in local elementary schools</li>
-        <li><a href="http://www.bayareasciencefestival.org/">Bay Area Science Festival (BASF)</a> Discovery Days exhibitor
-              (as part of <a href="https://scienceatcal.berkeley.edu">Science at Cal</a>): neuroanatomy lessons and demonstrations </li>
-        </ul></p>
-    <p><b>CS Kickstart,</b> participant (2016) and organizer (2017): organized computer science bootcamp and support program for first-year undergraduate women interested in the field</p>
-    
+
 
