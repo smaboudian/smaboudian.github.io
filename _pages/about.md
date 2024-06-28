@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1><img src="/images/bookbrain_o.png" alt="brain graphic" width="50"/>  About me</h1>
+<h1><img src="/images/bookbrain_o.png" alt="brain graphic" width="65"/>  About me</h1>
 
 I'm a 4th-year PhD candidate in the [Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) at UC Berkeley studying aging and neuroanatomy in the [Jagust Lab](https://jagustlab.neuro.berkeley.edu/) and the [Cognitive Neuroanatomy (Weiner) Lab](https://cnl.berkeley.edu/). My PhD work investigates how individual differences in the anatomy of the sulci (folds) of the brain affect cognitive and pathological trajectories in aging and Alzheimer's disease.
 
