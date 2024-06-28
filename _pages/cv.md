@@ -49,19 +49,22 @@ redirect_from:
 
 
 
-  <h2>Publications &amp; Presentations</h2>
+<h2>Publications &amp; Presentations</h2>
 	        <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
 
-  <p><b>Publications</b></p>
+<p><b>Publications</b></p>
     <ol>
-	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>(Under review)</i></li>
+	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
 	    <li>Willbrand E*, Maboudian S*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
 	    <li>Maboudian S, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
-	    <li>Kayser A, Zhang Z, Maboudian S, Jackson A, Ngo S, Chiong W, Hsu M. Open-ended, value-based decision making requires semantic memory: a computational, imaging, and clinical study (P1-6.005). <i>Neurology.</i> 2022;98(18 Supplement):534</li>
+	    <li>Willbrand EH*, Maboudian SA, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (Submitted)</li>
+	    <li>Kelly JP, Willbrand EH, Chen X, Maboudian SA, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
+	    <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, Maboudian SA, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Under review)</li>
     </ol>
   
-  <p><b>Presentations</b></p>
+<p><b>Presentations</b></p>
     <ol>
+	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
 	    <li>Maboudian S*, Willbrand E*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. Organization for Human Brain Mapping 2023. Poster.</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. Society for Neuroscience 2022. Poster #445.03</li>
