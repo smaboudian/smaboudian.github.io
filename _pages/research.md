@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+{% include base_path %} 
 
 
 <a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/images/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="80%"></a>
