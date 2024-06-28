@@ -15,7 +15,7 @@ author_profile: true
 [Clinical Cognitive Neuroscience lecture slides (High School)](https://docs.google.com/presentation/d/1Z7lQ3A3liloV2htVPOQ6uZy_-V45WHaoqtWMyD_yMsc/edit?usp=sharing)
 
 
-<h2>Science Communication and Graphic Design</h2>
+<h2>Science Communication</h2>
 
 [Picking Brains Interview Project](https://pickingbrains.github.io/)  
 
