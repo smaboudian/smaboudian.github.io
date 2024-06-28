@@ -114,13 +114,18 @@ redirect_from:
         <li>Developed and taught lecture on Clinical Applications of Cognitive Neuroscience for high school Cognitive Neuroscience course</li>
   </ul>
 	    
-<p><b>Project SHORT, Mentor </b> (2021-2023) 
+<p><b>Mentor, Project SHORT</b> (2021-2023) 
   <ul>
         <li>Project SHORT (Students for Higher-Ed Opportunities and Representation in Training) offers pro bono mentorship for students from underrepresented backgrounds interested in graduate or medical school</li>
         <li>Mentored students interested in applying to graduate school and assisted with application preparation</li>
   </ul></p> 
+
+<p><b>Design Team, Berkeley Science Review</b> (2024)</p>
+  <ul>
+        <li>Graphic design and scientific illustration for Berkeley Science Review science magazine</li>
+  </ul>
   
-<p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021)
+<p><b>Co-Creator, Writer and Graphic Designer, Picking Brains</b> (2020-2021)
   <ul>
         <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series highlighting the stories of professors in neuroscience to normalize different backgrounds and journeys </li>
   </ul></p> 
