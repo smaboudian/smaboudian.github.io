@@ -9,6 +9,7 @@ author_profile: true
 
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 <a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/images/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="50%"></a>
+<br>
 Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we investigate relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
 
 <p>Publications:</p>
@@ -20,6 +21,7 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
 
 <h2>Tertiary sulci in evolution and disorder</h2>
 <a href="https://www.nature.com/articles/s42003-023-04953-5"><img src="/images/project_figs/CommunBiol2024_Fig1.png" alt="Willbrand, Maboudian et al., JNeurosci 2024 Figure 1" style="50%"></a>
+<br>
 Traditional neuroanatomy studies have largely overlooked tertiary sulci — the smallest, shallowest, and most individually-variable folds in the brain. These variable sulci are the evolutionarily-newest and latest-developing cortical indentations, and recent work suggests their development is in turn related to the development of various higher-order cognitive functions (e.g., reasoning) and neuropsychiatric disorders. This series of projects seeks to improve our understanding of the evolution of these structures and the relationships between their morphology and neuropsychiatric symptoms. 
 
 <p>Publications:</p>
