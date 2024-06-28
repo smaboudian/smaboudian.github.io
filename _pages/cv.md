@@ -39,7 +39,7 @@ redirect_from:
   <p><b>Ph.D. Rotation Projects:</b> UC Berkeley HWNI (Aug 2020 - May 2021)
       <ul>
         <li>Jagust Lab (PI: William Jagust): Used machine learning models to generate age predictions based on human structural MRI scans, and examined relationship between predicted age and dopamine PET measures, amyloid and tau levels</li>
-        <li>Cognitive Neuroanatomy Lab (PI: Kevin Weiner): Learned advanced MRI processing and neuroanatomy methods and applied them to an AD dataset; discovered that individual differences in medial parietal cortex sulcal morphology relate to cognitive decline in AD</li>
+        <li>Cognitive Neuroanatomy Lab (PI: Kevin Weiner): Learned advanced MRI processing and neuroanatomy methods and applied them to an AD dataset; discovered that individual differences in medial parietal cortex sulcal morphology relate to cognitive decline in AD. Discovered several new medial parietal cortex sulci.</li>
         <li>Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winstion Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making; discovered that amount of semantic memory impairment correlates with decision-making deficit in dementia</li>
       </ul></p>
 
