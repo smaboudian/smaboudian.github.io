@@ -54,7 +54,6 @@ redirect_from:
 
 <h2>Publications &amp; Presentations</h2>
   <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
-  <p><i>*Equal contribution</i></p>
 
 <p><b>Publications</b></p>
   <ol>
@@ -74,6 +73,7 @@ redirect_from:
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. Society for Neuroscience 2022. Poster #445.03</li>
 	    <li>Maboudian S, Zhang Z, Hsu M. Semantic Fluency Visualization to Improve Characterization of Memory Deficits in Dementia. (2019). Aging Research and Technology Summit 2019. Poster.</li>
     </ol>
+  <p><i>*Equal contribution</i></p>
 
 
 
@@ -109,7 +109,7 @@ redirect_from:
         <li>Developed and taught neuroanatomy workshop for <a href="https://eyh.berkeley.edu/">EYH</a>, a conference to introduce middle-school girls to STEM fields</li>
   </ul></p>	    
     
-<p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
+<p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program</b> (2023)</p>
   <ul>
         <li>Developed and taught lecture on Clinical Applications of Cognitive Neuroscience for high school Cognitive Neuroscience course</li>
   </ul>
@@ -120,7 +120,7 @@ redirect_from:
         <li>Mentored students interested in applying to graduate school and assisted with application preparation</li>
   </ul></p> 
   
-<p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021): 
+<p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021)
   <ul>
         <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series highlighting the stories of professors in neuroscience to normalize different backgrounds and journeys </li>
   </ul></p> 
