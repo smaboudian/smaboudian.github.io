@@ -13,4 +13,8 @@ Previously, I majored in [Cognitive Science](https://cogsci.berkeley.edu/) and m
 
 I'm also interested in science education; I'm a campus Steering Committee Member and the Neuroscience Team Lead for [Bay Area Scientists in Schools (BASIS)](https://crscience.org/educators/basis/), a program that provides free, in-class science lessons to local elementary schools. I have also developed and taught neuroscience and neuroanatomy lessons and demos at the [Expanding Your Horizons (EYH) Conference](https://eyh.berkeley.edu/), the Bay Area Science Festival (BASF) Discovery Days, and the California Cognitive Science Conference. Outside the lab, I enjoy spending my free time making art, baking, reading, and exploring Bay Area nature.
 
+<br>
+<br>
+
+<img src="/images/bookbrain_o.png" alt="brain graphic" width="200">
 
