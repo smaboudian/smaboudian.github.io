@@ -59,28 +59,28 @@ Skills
 * Teaching & Mentorship
 * Project Management
 
-\
+
 Selected Publications 
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-\
+
 Selected Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-\
+
 Teaching
 ======
 * Co-Instructor, Psych 298: Quantitative Analysis and Coding Knowledge
 * Graduate Student Instructor, Biology C61: Foundational Neuroscience
 * Graduate Student Instructor, Public Health 129: The Aging Human Brain
 
-\
+
 Service and Leadership
 ======
 **Departmental Service**
