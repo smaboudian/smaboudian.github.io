@@ -53,10 +53,10 @@ redirect_from:
 
 
 <h2>Publications &amp; Presentations</h2>
-     <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
-     <p><i>*Equal contribution</i></p>
+<p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
+<p><i>*Equal contribution</i></p>
 <p><b>Publications</b></p>
-    <ol>
+<ol>
 	    <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
 	    <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
 	    <li><b>Maboudian S</b>, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
@@ -66,7 +66,7 @@ redirect_from:
     </ol>
   
 <p><b>Presentations</b></p>
-    <ol>
+<ol>
 	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. Talk presented at: 2024 ADRC Researchers' Symposium, UC Davis</li>
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
 	    <li>Maboudian S*, Willbrand E*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. Organization for Human Brain Mapping 2023. Poster.</li>
@@ -81,7 +81,7 @@ redirect_from:
     <li><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023) </li>
     <li><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023) </li>
     <li><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021) </li>
-    <li><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science,(2017) </li>
+    <li><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science (2017) </li>
 </ul>
     
 
@@ -96,7 +96,7 @@ redirect_from:
 
 <h2>Outreach</h2>
 <p><b>Steering Committee Member & Team Lead, Community Resources for Science (CRS)</b> (2020-)
-        <ul>
+<ul>
         <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
 	<li>Campus Steering Committee Member: lead campus outreach recruitment and coordination</li>
         <li>Team Lead and Instructor: responsible for training team of teachers, scheduling lessons, & teaching</li>
@@ -108,12 +108,12 @@ redirect_from:
         <li>Developed and taught neuroanatomy workshop for <a href="https://eyh.berkeley.edu/">EYH</a>, a conference to introduce middle-school girls to STEM fields</li>
 	</ul></p>	    
     
-  <p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
+<p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
         <ul>
         <li>Developed and taught lecture on Clinical Applications of Cognitive Neuroscience for high school Cognitive Neuroscience course</li>
 	</ul>
 	    
-  <p><b>Project SHORT, Mentor </b> (2021-2023) 
+<p><b>Project SHORT, Mentor </b> (2021-2023) 
         <ul>
         <li>Project SHORT (Students for Higher-Ed Opportunities and Representation in Training) offers pro bono mentorship for students from underrepresented backgrounds interested in graduate or medical school</li>
         <li>Mentored students interested in applying to graduate school and assisted with application preparation</li>
