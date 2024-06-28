@@ -10,100 +10,115 @@ redirect_from:
 {% include base_path %}
 
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
+<h3>Education</h3>
+    <p><b>UC Berkeley, Helen Wills Neuroscience Institute (HWNI)</b>
+    <br>PhD student, Neuroscience (Fall 2020–)</p>
+    <p><b>UC Berkeley, College of Letters and Sciences</b>
+    <br>B.A. Cognitive Science, Bioengineering Minor (May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</p>
+
+<h3>Awards &amp; Honors</h3>
+    <p><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</p>
+    <p><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</p>
+    <p><b>Honorable Mention, NSF Graduate Research Fellowships Program (GRFP)</b> (2020, 2021)</p>
+    <p><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: represents the highest achievement by the top graduating student in the department (2020)</p>
+    <p><b>Summer Undergraduate Research Fellowship (SURF)</b>, UC Berkeley L&S Sciences (2019)</p>
+    <p><b>Diversity Research Award</b>, Scientific Research Network on Decision Neuroscience and Aging (2019)</p>
+    <p><b>Amgen Scholars Fellowship</b>, Columbia University (2018)</p>
+    <p><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship recognizing students who demonstrate innovative, initiative-driven leadership</p>
 
 
-Education
-======
-* Ph.D. Candidate, Neuroscience, UC Berkeley (Fall 2020–Present) 
-* B.A. Cognitive Science with Bioengineering Minor , UC Berkeley (May 2020)
+<h3>Research Projects</h3>
+    <p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
+      <ul>
+        <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD), and relationships between individual variability in cortical folding, vulnerability to AD-related pathology, and cognition (using MRI and PET imaging)</li>
+      </ul></p>
 
-Awards, Honors, and Fellowships
-======
-* Young Investigator Award for Excellence in Research on Alzheimer’s Disease, Alzheimer’s Association (2024)
-* NRSA F31 Award (Individual Predoctoral Fellowship): National Institute on Aging, NIH (2024)
-* Best Poster: Alzheimer's Imaging Consortium, Alzheimer’s Association International Conference (2023)
-* Honorable Mention, Ford Foundation Predoctoral Fellowship (2021)
-* Honorable Mention, NSF Graduate Research Fellowships Program (GRFP) (2020, 2021)
-* Departmental Citation Award, UC Berkeley Cognitive Science: given to valedictorian (2020)
-* High Honors in Cognitive Science, UC Berkeley College of Letters & Science (2020)
-* Highest Distinction in General Scholarship, UC Berkeley College of Letters & Science (2020)
-* Diversity Research Award, Scientific Research Network on Decision Neuroscience and Aging (2019)
-* Summer Undergraduate Research Fellowship (SURF), UC Berkeley L&S Sciences Cohort (2019)
-* Amgen Scholars Fellowship, Columbia University (Summer 2018)
-* The Leadership Award, Cal Alumni Association (2016, 2019): merit-based leadership scholarship
+  <p><b>Ph.D. Rotation Projects:</b>, UC Berkeley HWNI (Aug 2020 - May 2021)
+      <ul>
+        <li>Jagust Lab (PI: William Jagust): Used machine learning models to generate age predictions based on human structural MRI scans, and examined relationship between predicted age and dopamine PET measures, amyloid and tau levels</li>
+        <li>Cognitive Neuroanatomy Lab (PI: Kevin Weiner): Learned advanced MRI processing and neuroanatomy methods and applied them to an AD dataset; discovered that individual differences in medial parietal cortex sulcal morphology relate to cognitive decline in AD</li>
+        <li>Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winstion Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making; discovered that amount of semantic memory impairment correlates with decision-making deficit in dementia</li>
+      </ul></p>
 
-Research Experience
-======
-* Ph.D. Thesis: Jagust Lab & Cognitive Neuroanatomy Lab, UC Berkeley [May 2021 - present]
-  * Thesis topic: Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD) and relationships between individual variability in cortical folding (MRI), vulnerability to AD pathology (PET), and cognition
+  <p><b>Neuroecon (Hsu) Lab</b>, UC Berkeley (2018-2020)
 
-* Ph.D. Rotation Projects: UC Berkeley Neuroscience [Aug 2020 - May 2021]
-  * Jagust Lab (PI: William Jagust): Built machine learning models to generate age predictions based on human structural MRI scans. Examined relationship between predicted age and dopamine PET measures, amyloid and tau levels.
-  * Cognitive Neuroanatomy Lab (PI: Kevin Weiner): Learned advanced MRI processing and neuroanatomy methods and applied them to an AD dataset to investigate how sulcal morphology relates to cognitive decline in AD.
-  * Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winston Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making.
+  <p><b>Dranovsky Lab</b>, Columbia University (2018): Amgen Scholars Fellowship
 
-* Research Associate & SURF Fellow: Neuroecon (Hsu) Lab, UC Berkeley [Aug 2018 - June 2020]
+  <p><b>Adesnik Lab</b>, UC Berkeley (2017-2018)</p>
 
-* Amgen Scholar: Dranovsky Lab, Columbia University [May - Aug 2018] 
 
-* Research Assistant: Adesnik Lab, UC Berkeley [Aug 2017 - Mar 2018] 
+  <h3>Publications &amp; Presentations</h3>
+	        <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
 
+  <p><b>Publications</b></p>
+    <ol>
+	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>(Under review)</i></li>
+	    <li>Willbrand E*, Maboudian S*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
+	    <li>Maboudian S, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
+	    <li>Kayser A, Zhang Z, Maboudian S, Jackson A, Ngo S, Chiong W, Hsu M. Open-ended, value-based decision making requires semantic memory: a computational, imaging, and clinical study (P1-6.005). <i>Neurology.</i> 2022;98(18 Supplement):534</li>
+    </ol>
   
-Skills
-======
-* Neuroimaging: MRI, PET
-* Data Science
-* Coding: Python, R, Matlab
-* Research design
-* Science communication
-* Teaching & Mentorship
-* Project Management
+  <p><b>Presentations</b></p>
+    <ol>
+	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Atrophy of posteromedial sulci in aging and Alzheimer’s disease differs by sulcal type and location. Alzheimer’s Association International Conference 2023. Poster.</li>
+	    <li>Maboudian S*, Willbrand E*, Kelly J, Parker B, Foster B, Weiner K. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. Organization for Human Brain Mapping 2023. Poster.</li>
+	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. Society for Neuroscience 2022. Poster #445.03</li>
+	    <li>Maboudian S, Zhang Z, Hsu M. Semantic Fluency Visualization to Improve Characterization of Memory Deficits in Dementia. (2019). Aging Research and Technology Summit 2019. Poster.</li>
+	    <li>Oral Presentation. SURF 2019 Conference, UC Berkeley. (2019).</li>
+	    <li>Oral Presentation. Cognitive Neuroscience Graduate Colloquium, UC Berkeley. (2018).</li>
+	    <li>Oral Presentation. Columbia University, Amgen Scholars program seminar. (2018).</li>
+    </ol>
+    <p><i>*Co-first author</i></p>
 
 
-Selected Publications 
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+<h3>Teaching</h3>
+    <p><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023)</p>
+    <p><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023)</p>
+    <p><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021)</p>
+    <p><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science,(2017)</p>
+    
+
+<h3>Departmental Service</h3>
+    <p><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</p> 
+    <p><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</p>
+    <p><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</p> 
+    <p><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions </p> 
 
 
-Selected Presentations
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<h3>Outreach</h3>
+    <p><b>Community Resources for Science (CRS), Steering Committee Member & Team Leader</b> (2020-)
+        <ul>
+        <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
+	<li>Campus Steering Committee Member: lead campus outreach recruitment and coordination</li>
+        <li>Team Leader and Instructor: responsible for training team of teachers, scheduling lessons, & teaching</li>
+        <li>Lesson Developer: created neuroscience lesson based on state teaching standards; lesson has been taught to >800 local students by my team, in both English and Spanish</li>
+        </ul></p>
+    <p><b>Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference</b> (2023-)
+        <ul>
+        <li>Developed and taught neuroanatomy workshop for <a href="https://eyh.berkeley.edu/">EYH</a>, a conference to introduce middle-school girls to STEM fields</li>
+	</ul></p>	    
+    <p><b>Guest Lecturer, UC Berkeley Academic Talent Development Program (2023)</b></p>
+        <ul>
+        <li>Developed and taught lecture on Clinical Applications of Cognitive Neuroscience for high school Cognitive Neuroscience course</li>
+	</ul></p>
+	    
+  <p><b>Project SHORT, Mentor </b> (2021-2023) 
+        <ul>
+        <li>Project SHORT (Students for Higher-Ed Opportunities and Representation in Training) offers pro bono mentorship for students from underrepresented backgrounds interested in graduate or medical school</li>
+        <li>Mentored students interested in applying to graduate school and assisted with application preparation</li>
+        </ul></p> 
+    <p><b>Picking Brains, Co-Creator and Graphic Designer</b> (2020-2021): 
+        <ul>
+        <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series that highlights the stories of professors in neuroscience to normalize different backgrounds and journeys 
+        </ul></p> 
+    <p><b>Cognitive Science Student Association (CSSA),</b> President (2019-2020); Vice President (2018-2019); Secretary (2017-2018)
+      <br>CSSA outreach program:
+      <ul>
+        <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a>: brain anatomy and brain/mental health lessons in local elementary schools</li>
+        <li><a href="http://www.bayareasciencefestival.org/">Bay Area Science Festival (BASF)</a> Discovery Days exhibitor
+              (as part of <a href="https://scienceatcal.berkeley.edu">Science at Cal</a>): neuroanatomy lessons and demonstrations </li>
+        </ul></p>
+    <p><b>CS Kickstart,</b> participant (2016) and organizer (2017): organized computer science bootcamp and support program for first-year undergraduate women interested in the field</p>
+    
 
-Teaching
-======
-* Co-Instructor, Psych 298: Quantitative Analysis and Coding Knowledge
-* Graduate Student Instructor, Biology C61: Foundational Neuroscience
-* Graduate Student Instructor, Public Health 129: The Aging Human Brain
-
-
-Service and Leadership
-======
-**Departmental Service**
-* Helen Wills Neuroscience Institute PhD Program Steering Committee [2023-present]
-* Helen Wills Neuroscience Institute Diversity, Equity, & Inclusion Committee [2020-present]
-* Helen Wills Neuroscience Institute Bootcamp Committee [2021, 2022]
-* Helen Wills Neuroscience Institute Recruitment Committee [2021-2024]
-
-**Science Communication and Outreach**
-* Steering Committee Member & Team Lead, Community Resources for Science (nonprofit) [2020-present]
-  * Volunteer for Bay Area Scientists in Schools (BASIS), a program that brings science education resources to local TK-8 schools in historically marginalized and underserved communities 
-  * Campus Steering Committee Member: lead campus recruitment, outreach, & event coordination efforts 
-  * Team Lead and Instructor: responsible for training team of ~20 teachers, scheduling lessons, and teaching
-  * Lesson Developer: created neuroscience lesson based on state teaching standards, which has been taught to > 900 students (> 30 classes) by my team both virtually and in-person, in English and Spanish 
-  
-* Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference [2023] 
-  * Developed neuroanatomy workshop for EYH, a conference to introduce middle-school girls to STEM fields
-  * Trained a team of graduate students to teach workshop to ~60 conference attendees
-
-* Design Team, Berkeley Science Review [2024]
-  * Responsible for graphic design and scientific illustration for Berkeley Science Review science magazine
-
-* Co-Creator, Writer & Graphic Designer, Picking Brains [2020-2021]
-  * Created [pickingbrains.github.io], an interview project highlighting the stories of professors in neuroscience
-
-  
