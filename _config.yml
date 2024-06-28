@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Samira A. Maboudian"
+title                    : "SM"
 title_separator          : "-"
-name                     : &name "Samira A. Maboudian"
+name                     : &name "Samira Maboudian"
 description              : &description "Ph.D. Candidate"
 url                      : https://smaboudian.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
