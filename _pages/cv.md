@@ -22,18 +22,18 @@ redirect_from:
         <li><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</li>
         <li><b>Honorable Mention, Predoctoral Fellowship</b>, Ford Foundation (2021)</li>
         <li><b>Honorable Mention, Graduate Research Fellowships Program (GRFP)</b>, NSF (2020, 2021)</li>
-        <li><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: represents the highest achievement by the top graduating student in the department (2020)</li>
+        <li><b>Departmental Citation Award</b>, UC Berkeley Cognitive Science: valedictorian (top graduating student) (2020)</li>
         <li><b>Summer Undergraduate Research Fellowship (SURF)</b>, UC Berkeley L&S Sciences (2019)</li>
         <li><b>Diversity Research Award</b>, Scientific Research Network on Decision Neuroscience and Aging (2019)</li>
         <li><b>Amgen Scholars Fellowship</b>, Columbia University (2018)</li>
-        <li><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship recognizing students who demonstrate innovative, initiative-driven leadership</li>
+        <li><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship for innovative, initiative-driven leadership</li>
     </ul>
 
 
 <h2>Research Projects</h2>
 <p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
       <ul>
-        <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD), and relationships between individual variability in cortical folding, vulnerability to AD-related pathology, and cognition (using MRI and PET imaging)</li>
+        <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD) and relationships between individual variability in cortical folding (MRI), vulnerability to AD pathology (PET), and cognition</li>
       </ul></p>
 
   <p><b>Ph.D. Rotation Projects:</b> UC Berkeley HWNI (Aug 2020 - May 2021)
@@ -43,11 +43,11 @@ redirect_from:
         <li>Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winstion Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making; discovered that amount of semantic memory impairment correlates with decision-making deficit in dementia</li>
       </ul></p>
 
-<p><b>Pre-Ph.D. Research Positions:</b> UC Berkeley HWNI (Aug 2020 - May 2021)
+<p><b>Pre-Ph.D. Research Positions:</b> UC Berkeley HWNI (Aug 2020 - May 2021)</p>
       <ul>
         <li>Research Associate: Neuroecon (Hsu) Lab, UC Berkeley (2018-2020)</li>
 	<li>Amgen Scholar: Dranovsky Lab, Columbia University (2018)</li>
-	<li>Research Assistant: Adesnik Lab, UC Berkeley (2017-2018)</p></li>
+	<li>Research Assistant: Adesnik Lab, UC Berkeley (2017-2018)</li>
 
 
 
