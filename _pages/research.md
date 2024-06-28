@@ -20,7 +20,7 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
 <hr>
 
 <h2>Tertiary sulci in evolution and disorder</h2>
-<a href="https://www.nature.com/articles/s42003-023-04953-5"><img src="/images/project_figs/CommunBiol2024_Fig1.png" alt="Willbrand, Maboudian et al., JNeurosci 2024 Figure 1" style="50%"></a>
+<a href="https://www.nature.com/articles/s42003-023-04953-5"><img src="/images/project_figs/CommunBiol2024_Fig1-2.png" alt="Willbrand, Maboudian et al., JNeurosci 2024 Figure 1" style="50%"></a>
 <br>
 Traditional neuroanatomy studies have largely overlooked tertiary sulci — the smallest, shallowest, and most individually-variable folds in the brain. These variable sulci are the evolutionarily-newest and latest-developing cortical indentations, and recent work suggests their development is in turn related to the development of various higher-order cognitive functions (e.g., reasoning) and neuropsychiatric disorders. This series of projects seeks to improve our understanding of the evolution of these structures and the relationships between their morphology and neuropsychiatric symptoms. 
 
