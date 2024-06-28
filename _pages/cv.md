@@ -43,16 +43,10 @@ Research Experience
   * Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winston Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making.
 
 * Research Associate & SURF Fellow: Neuroecon (Hsu) Lab, UC Berkeley [Aug 2018 - June 2020]
-  * Honors thesis: Developed a method for quantifying and visualizing fluency data (and other categorical time series data) using recurrence plots, which improves upon current quantification methods in distinguishing the performance of patients with Alzheimer’s from controls 
-  * Lead in designing and implementing a paradigm for prosocial behavior and decision-making in rodent models (in collaboration with the Kaufer Lab, UC Berkeley)
-  * Collected, cleaned, and analyzed behavioral decision-making data from dementia patients at UCSF
-  * Developed an anonymous test-retest protocol for large-scale survey studies on Amazon Mechanical Turk
 
 * Amgen Scholar: Dranovsky Lab, Columbia University [May - Aug 2018] 
-  * Analyzed effects of Alzheimer’s and early life stress on the mouse hippocampus using retroviral labeling, confocal microscopy, and behavioral measures 
 
 * Research Assistant: Adesnik Lab, UC Berkeley [Aug 2017 - Mar 2018] 
-  * Developed method to clear and immunostain large tissue samples and performed confocal microscopy
 
   
 Skills
@@ -84,7 +78,7 @@ Teaching
 * Graduate Student Instructor, Biology C61: Foundational Neuroscience
 * Graduate Student Instructor, Public Health 129: The Aging Human Brain
   
-Service and leadership
+Service and Leadership
 ======
 **Departmental Service**
 * Helen Wills Neuroscience Institute PhD Program Steering Committee [2023-present]
