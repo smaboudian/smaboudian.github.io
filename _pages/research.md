@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Highlights from Select Research Projects and Interests"
+title: "Highlights from Select Research Projects"
 permalink: /research/
 author_profile: true
 ---
