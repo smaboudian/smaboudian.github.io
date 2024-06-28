@@ -11,12 +11,12 @@ redirect_from:
 
 [(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--research}
 <h3>Education</h3>
-    <ul>
+<ul>
         <li><b>PhD Candidate</b>, Neuroscience, UC Berkeley (Fall 2020–)</li>
         <li><b>B.A. Cognitive Science with Bioengineering Minor</b>, UC Berkeley(May 2020): Highest Distinction in General Scholarship &amp; High Honors in Cognitive Science</li></ul>
 
 <h3>Awards &amp; Honors</h3>
-    <ul>
+<ul>
         <li><b>Best Poster Award, </b> Alzheimer's Imaging Consortium: Alzheimer’s Association International Conference (2023)</li>
         <li><b>Honorable Mention, Ford Foundation Predoctoral Fellowship</b> (2021)</li>
         <li><b>Honorable Mention, NSF Graduate Research Fellowships Program (GRFP)</b> (2020, 2021)</li>
