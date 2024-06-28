@@ -30,7 +30,7 @@ redirect_from:
     </ul>
 
 
-<h2>Research Projects</h2>
+<h2>Research Positions & Projects</h2>
 <p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
       <ul>
         <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD) and relationships between individual variability in cortical folding (MRI), vulnerability to AD pathology (PET), and cognition</li>
