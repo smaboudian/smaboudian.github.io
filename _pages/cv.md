@@ -44,10 +44,11 @@ redirect_from:
       </ul></p>
 
 <p><b>Pre-Ph.D. Research Positions:</b> UC Berkeley HWNI (Aug 2020 - May 2021)</p>
-      <ul>
+<ul>
         <li>Research Associate: Neuroecon (Hsu) Lab, UC Berkeley (2018-2020)</li>
 	<li>Amgen Scholar: Dranovsky Lab, Columbia University (2018)</li>
 	<li>Research Assistant: Adesnik Lab, UC Berkeley (2017-2018)</li>
+</ul>
 
 
 
