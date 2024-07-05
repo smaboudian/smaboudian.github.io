@@ -183,9 +183,10 @@
   border: none; 
   border-radius: 15px;
   cursor: pointer;
-
+     
   &:hover {
-    background-color: $link-color-hover; 
+    color: #fff;
+    background-color: $dark-maroon; 
     }
   }     
       
