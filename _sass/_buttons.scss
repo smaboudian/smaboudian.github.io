@@ -175,21 +175,17 @@
   display: inline-block;
   margin-bottom: 0.25em;
   padding: 0.125em 0.25em;
+  outline: none;
   color: #fff;
   background-color: $link-color !important;
   text-align: center;
   text-decoration: none !important;
-  border: 1px solid;
-  border-color: $link-color;
-  border-radius: $border-radius;
+  border: none; 
+  border-radius: 15px;
   cursor: pointer;
 
   &:hover {
-    color: $link-color;
-    background-color: $link-color !important;
-    border: 1px solid;
-    border-color: $link-color;
-    border-radius: $border-radius; 
+    background-color: $link-color-hover; 
     }
   }     
       
