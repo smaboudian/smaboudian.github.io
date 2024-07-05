@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[(view full CV as PDF here)](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--cv}
+[view full CV as PDF](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--cv}
 <h2>Education</h2>
 <ul>
         <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
