@@ -181,11 +181,11 @@
   text-align: center;
   text-decoration: none !important;
   border: none; 
-  border-radius: 15px;
+  border-radius: 10px;
   cursor: pointer;
      
   &:hover {
-    background-color: $link-color-hover; 
+    background-color: $dark-maroon; 
     }
   }     
       
