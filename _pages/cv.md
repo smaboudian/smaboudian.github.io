@@ -16,7 +16,7 @@ redirect_from:
 	<head>
 	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 	</head>
-	<body style="font-family: $sans-serif">
+	<body style="font-family: sans-serif">
 		<div class="w3-sidebar w3-bar-block" style="width:20%;right:0">
 		  <h5 class="w3-bar-item">Contents</h5>
 		  <a href="#education" class="w3-bar-item w3-button">Education</a>
