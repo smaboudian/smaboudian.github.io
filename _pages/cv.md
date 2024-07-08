@@ -10,6 +10,17 @@ redirect_from:
 {% include base_path %}
 
 [ view full CV as PDF ](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--cv}
+
+<div class="w3-sidebar w3-bar-block" style="width:20%;right:0">
+  <h5 class="w3-bar-item">Menu</h5>
+  <a href="#" class="w3-bar-item w3-button">Link 1</a>
+  <a href="#" class="w3-bar-item w3-button">Link 2</a>
+  <a href="#" class="w3-bar-item w3-button">Link 3</a>
+</div>
+
+<div style="margin-right:20%">
+
+
 <h2>Education</h2>
 <ul>
         <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
@@ -129,5 +140,10 @@ redirect_from:
   <ul>
         <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series highlighting the stories of professors in neuroscience to normalize different backgrounds and journeys </li>
   </ul></p> 
+
+
+</div>
+
+
 
 
