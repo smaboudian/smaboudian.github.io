@@ -23,7 +23,7 @@ redirect_from:
 		  <a href="#awards" class="w3-bar-item w3-button">Awards &amp; Honors</a>
 		  <a href="#research" class="w3-bar-item w3-button">Research Positions & Projects</a>
 		  <a href="#publications" class="w3-bar-item w3-button">Publications &amp; Presentations</a>
-   		  <a href="#Teaching" class="w3-bar-item w3-button">Teaching</a>
+   		  <a href="#teaching" class="w3-bar-item w3-button">Teaching</a>
 		  <a href="#service" class="w3-bar-item w3-button">Departmental Service</a>
 		  <a href="#outreach" class="w3-bar-item w3-button">Outreach</a>
 		</div>
@@ -33,7 +33,7 @@ redirect_from:
 		        <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
 		        <li><b>B.A. Cognitive Science, Bioengineering Minor</b>: UC Berkeley (2020)</li>
 		</ul>
-		<h2 id="awards">Awards &amp; Honors</h2>
+		<h2 id="awards"><b>Awards &amp; Honors</b></h2>
 		<ul>
 		        <li><b>Young Investigator Award for Excellence in Research on Alzheimer’s Disease</b>, Alzheimer’s Association (2024)</li>
 		        <li><b>NRSA F31 Award (Individual Predoctoral Fellowship)</b>, National Institute on Aging, NIH (2024)</li>
