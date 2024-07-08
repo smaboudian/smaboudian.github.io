@@ -28,7 +28,7 @@ redirect_from:
 		  <a href="#outreach" class="w3-bar-item w3-button">Outreach</a>
 		</div>
 		<div style="margin-right:25%">
-		<h2 id="education">Education</h2>
+		<h2 id="education"><b>Education</b></h2>
 		<ul>
 		        <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
 		        <li><b>B.A. Cognitive Science, Bioengineering Minor</b>: UC Berkeley (2020)</li>
@@ -46,7 +46,7 @@ redirect_from:
 		        <li><b>Amgen Scholars Fellowship</b>, Columbia University (2018)</li>
 		        <li><b>The Leadership Award</b>, Cal Alumni Association (2016, 2019): merit-based scholarship for innovative, initiative-driven leadership</li>
 		</ul>
-		<h2 id="research">Research Positions & Projects</h2>
+		<h2 id="research"><b>Research Positions & Projects</b></h2>
 		<p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
 		      <ul>
 		        <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD) and relationships between individual variability in cortical folding (MRI), vulnerability to AD pathology (PET), and cognition</li>
@@ -63,7 +63,7 @@ redirect_from:
 			  <li>Amgen Scholar: Dranovsky Lab, Columbia University (2018)</li>
 			  <li>Research Assistant: Adesnik Lab, UC Berkeley (2017-2018)</li>
 			</ul>
-		<h2 id="publications">Publications &amp; Presentations</h2>
+		<h2 id="publications"><b>Publications &amp; Presentations</b></h2>
 			<p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
 		<p><b>Publications</b></p>
 		<ol>
@@ -83,21 +83,21 @@ redirect_from:
 			    <li>Maboudian S, Zhang Z, Hsu M. Semantic Fluency Visualization to Improve Characterization of Memory Deficits in Dementia. (2019). Aging Research and Technology Summit 2019. Poster.</li>
 		</ol>
 		<p><i>*Equal contribution</i></p>
-		<h2 id="teaching">Teaching</h2>
+		<h2 id="teaching"><b>Teaching</b></h2>
 		  <ul>
 		    <li><b>Co-Instructor</b>, Psych 298: Quantitative Analysis and Coding Knowledge (2023) </li>
 		    <li><b>Graduate Student Instructor</b>, Molecular & Cell Biology C61: Foundational Neuroscience (2023) </li>
 		    <li><b>Graduate Student Instructor</b>, Public Health 129: The Aging Human Brain (2021) </li>
 		    <li><b>Lab Teaching Assistant</b>, Data 8: Foundations of Data Science (2017) </li>
 		  </ul>
-		<h2 id="service">Departmental Service</h2>
+		<h2 id="service"><b>Departmental Service</b></h2>
 		  <ul>
 		    <li><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</li>
 		    <li><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</li>
 		    <li><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</li>
 		    <li><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions</li>
 		  </ul>
-		<h2 id="outreach">Outreach</h2>
+		<h2 id="outreach"><b>Outreach</b></h2>
 		<p><b>Steering Committee Member & Team Lead, Community Resources for Science (CRS)</b> (2020-)
 		  <ul>
 		        <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
