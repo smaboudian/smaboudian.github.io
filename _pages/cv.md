@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [ view full CV as PDF ](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--cv}
-<h2>Education</h2>
+<h2>Education:</h2>
 <ul>
         <li><b>Ph.D. Candidate</b>: Neuroscience, UC Berkeley (Fall 2020–Present)</li>
         <li><b>B.A. Cognitive Science, Bioengineering Minor</b>: UC Berkeley (2020)</li></ul>
