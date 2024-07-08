@@ -11,6 +11,14 @@ redirect_from:
 
 [ view full CV as PDF ](https://drive.google.com/file/d/1na3Jir-AWcpODSBP5e0sf-ay2BRku7Ap/view?usp=sharing){: .btn--cv}
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+
 <div class="w3-sidebar w3-bar-block" style="width:20%;right:0">
   <h5 class="w3-bar-item">Menu</h5>
   <a href="#" class="w3-bar-item w3-button">Link 1</a>
@@ -141,9 +149,10 @@ redirect_from:
         <li>Created <a href="https://pickingbrains.github.io/">Picking Brains</a> interview series highlighting the stories of professors in neuroscience to normalize different backgrounds and journeys </li>
   </ul></p> 
 
-
 </div>
 
+</body>
+</html>
 
 
 
