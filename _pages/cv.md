@@ -19,7 +19,7 @@ redirect_from:
 	<body style="font-family: sans-serif">
 		<div class="w3-sidebar w3-bar-block" style="width:20%;right:0">
 		  <h5 class="w3-bar-item"><b>Contents</b></h5>
-		  <a href="#education" class="w3-bar-item w3-button-#6772a3 w3-hover-w3-2021-burnt-coral">Education</a>
+		  <a href="#education" class="w3-bar-item w3-button w3-hover-2021-burnt-coral">Education</a>
 		  <a href="#awards" class="w3-bar-item w3-button">Awards &amp; Honors</a>
 		  <a href="#research" class="w3-bar-item w3-button">Research Positions & Projects</a>
 		  <a href="#publications" class="w3-bar-item w3-button">Publications &amp; Presentations</a>
