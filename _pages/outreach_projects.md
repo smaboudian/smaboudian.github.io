@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-<h2>Science Education: Example Lessons</h2>
+<h2>Teaching & Science Education: Example Lessons</h2>
 
 [Quantitative Analysis and Coding Knowledge (QuACK) 2023 course lesson bank](https://ucb-psychology-quack.github.io/site/QuACK2023/QuACK2023)
 
