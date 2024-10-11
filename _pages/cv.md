@@ -60,11 +60,11 @@ redirect_from:
 	    <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
 	    <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
 	    <li><b>Maboudian S</b>, Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
-	    <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, <b>Maboudian SA</b>, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Accepted)</li>
+	    <li>Hastings III WL, Willbrand EH, Kelly JP, Washington ST, Tameilau PT, Sathishkumar RN, <b>Maboudian SA</b>, Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. <i>Cortex</i> 2024 (Accepted)</li>
 	    <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (In revision)</li>
 	    <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
     </ol>
-  
+
 <p><b>Select Posters & Presentations</b></p>
   <ol>
 	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. <i>Talk presented at 2024 ADRC Researchers' Symposium, UC Davis.</i></li>
@@ -84,8 +84,6 @@ redirect_from:
     </ol>
     
   <p><i>*Equal contribution</i></p>
-
-
 
 
 <h2>Teaching</h2>
