@@ -64,6 +64,7 @@
     max-width: 10%; /* Make the image responsive */ 
     max-height: 10%; /* Ensure it doesn't exceed the footer height */ 
     object-fit: contain; /* Maintain aspect ratio */ 
+    position:fixed;
     bottom:0!important;
     right: 0!important;
     padding: 0!important;
