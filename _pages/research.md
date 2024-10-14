@@ -22,14 +22,14 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
 <h2>Tertiary sulci in evolution and disorder</h2>
 <a href="https://www.nature.com/articles/s42003-023-04953-5"><img src="/images/project_figs/CommunBiol2024_Fig1-2.png" alt="Willbrand, Maboudian et al., JNeurosci 2024 Figure 1" style="50%"></a>
 <br>
-Traditional neuroanatomy studies have largely overlooked tertiary sulci — the smallest, shallowest, and most individually-variable folds in the brain. These variable sulci are the evolutionarily-newest and latest-developing cortical indentations, and recent work suggests their development is in turn related to the development of various higher-order cognitive functions (e.g., reasoning) and neuropsychiatric disorders. This series of projects seeks to improve our understanding of the evolution of these structures and the relationships between their morphology and neuropsychiatric symptoms. 
+Traditional neuroanatomy studies have largely overlooked small, shallow, and highly variable folds in the brain. These tertiary sulci are the evolutionarily-newest and latest-developing cortical indentations, and recent work suggests their development is in turn related to the development of various higher-order cognitive functions (e.g., reasoning) and symptoms of neuropsychiatric disorders. This series of projects seeks to improve our understanding of the evolution of these structures and the relationships between their morphology and neuropsychiatric symptoms. 
 
 <p>Publications:</p>
 <ul>
   <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
-  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (Submitted)</li>
+  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (In revision)</li>
   <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
-  <li>Hastings III WL, Willbrand EH, Elliott MV, Kelly JP, <b>Maboudian SA</b>, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Under review)</li>
+  <li>Hastings III WL,Willbrand EH, Kelly JP, Washington ST, Tameilau PT, Sathishkumar RN, <b>Maboudian SA</b>, Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Accepted)</li>
 </ul>
 
 <hr>
