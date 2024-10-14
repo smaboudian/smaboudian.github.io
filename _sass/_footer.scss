@@ -50,13 +50,21 @@
 
 /* Ensure the footer image stays in place and fills the corner */
 .page__footer-img {
-  position: absolute; /* Make sure it doesn't interfere with other content */
+  position: absolute; /* Position relative to .page__footer */
   right: 0;
   bottom: 0;
-  height: 50px; /* Match footer height */
+  height: 100%; /* Fill the full footer height */
   width: auto; /* Maintain aspect ratio */
   z-index: 0; /* Behind text */
 }
+.page__footer-img img {
+  max-width: 100%; /* Make the image responsive */
+  height: 100%; /* Fill the footer height */
+  object-fit: cover; /* Cover the area without distortion */
+  padding: 0; /* Remove any padding */
+}
+
+
 
 /* Remove padding adjustments for fixed footer */
 .page__content {
