@@ -59,9 +59,12 @@
 }
 
 .page__footer-img {
+   img {
+    max-width: 35px;
     bottom:0!important;
     right: 0!important;
     padding: 0!important;
+   }
 }
 
 .page__footer-follow {
