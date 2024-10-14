@@ -4,26 +4,21 @@
 
 .page__footer {
   @include clearfix;
-  float: left;
-  margin-left: 0;
-  margin-right: 0;
+  position: relative; /* Ensure positioning context for absolutely positioned elements */
   width: 100%;
   clear: both;
-  /* sticky footer fix start */
-  position: relative;
-  bottom: 0em;
-  height: 50px;
-  /*height: auto;*/
-  /* sticky footer fix end */
+  height: 50px; /* Keep fixed height or adjust as needed */
   margin-top: 3em;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
+  animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
-          animation-delay: 0.45s;
+  animation-delay: 0.45s;
   background-color: $background-color;
   border-top: 1px solid $light-gray;
 
+  /* Removed float and bottom */
+  
   footer {
     @include clearfix;
     margin-left: auto;
@@ -59,17 +54,17 @@
   font-size: $type-size-7;
 }
 
-
 .page__footer-img {
-  position: absolute; /* Position it within the footer */
-  bottom: 0;
-  right: 0; 
-  height: 100%; /* Make the image fill the footer height */
-  width: auto;
-  object-fit: contain;
+  position: absolute; /* Position it absolutely within the footer */
+  bottom: 0; /* Align to bottom */
+  right: 0; /* Align to right */
+  height: 100%; /* Fill the height of the footer */
+  object-fit: cover; /* Cover the available space without distortion */
+  z-index: -1; /* Send the image to the background, behind other content */
+  opacity: 0.8; /* Optional: to make the image blend subtly */
 }
 
-.page__footer-img-2 {
+.page__footer-img-v2 {
    img {
     max-width: 10%; /* Make the image responsive */ 
     max-height: 10%; /* Ensure it doesn't exceed the footer height */ 
