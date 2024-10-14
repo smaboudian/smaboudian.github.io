@@ -3,15 +3,12 @@
    ========================================================================== */
 .page__footer {
   @include clearfix;
-  position: fixed; /* Ensure the footer remains at the bottom */
-  bottom: 0;
-  left: 0;
+  position: relative; /* Make it static, appearing only after the content */
   width: 100%; /* Full width */
-  height: 50px; /* Adjust height as needed */
-  background-color: $background-color !important; /* Force the background color */
+  height: 80px; /* Adjust height as needed */
+  background-color: $background-color; /* Set the background color */
   border-top: 1px solid $light-gray;
-  z-index: 1000; /* Keep the footer on top of other elements */
-  margin: 0;
+  margin-top: 3em; /* Space before the footer to separate it from the content */
   padding: 0;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
@@ -48,20 +45,21 @@
   }
 }
 
-/* To ensure the footer image properly fills the bottom-right corner */
+/* Ensure the footer image stays in place and fills the corner */
 .page__footer-img {
-  position: absolute; /* Absolute positioning */
+  position: absolute; /* Make sure it doesn't interfere with other content */
   right: 0;
   bottom: 0;
-  height: 100%; /* Fill the footer's height */
+  height: 50px; /* Match footer height */
   width: auto; /* Maintain aspect ratio */
-  z-index: 999; /* Ensure it's behind text if needed */
+  z-index: 0; /* Behind text */
 }
 
-/* Add a wrapper around the rest of the page content */
+/* Remove padding adjustments for fixed footer */
 .page__content {
-  padding-bottom: 60px; /* Give enough space for the fixed footer */
+  padding-bottom: 0;
 }
+
 
 
 .page__footer-copyright {
