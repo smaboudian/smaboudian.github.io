@@ -61,8 +61,8 @@
 
 .page__footer-img {
    img {
-    max-width: 100%; /* Make the image responsive */ 
-    max-height: 100%; /* Ensure it doesn't exceed the footer height */ 
+    max-width: 10%; /* Make the image responsive */ 
+    max-height: 10%; /* Ensure it doesn't exceed the footer height */ 
     object-fit: contain; /* Maintain aspect ratio */ 
     bottom:0!important;
     right: 0!important;
