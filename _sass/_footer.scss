@@ -3,9 +3,12 @@
    ========================================================================== */
 .page__footer {
   @include clearfix;
-  position: relative; /* Make it static, appearing only after the content */
+  /* sticky footer fix start */
+  position: absolute;
+  bottom: 0em;
+  height: auto;
+  /* sticky footer fix end */
   width: 100%; /* Full width */
-  height: 80px; /* Adjust height as needed */
   background-color: $background-color; /* Set the background color */
   border-top: 1px solid $light-gray;
   margin-top: 3em; /* Space before the footer to separate it from the content */
