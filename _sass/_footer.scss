@@ -61,11 +61,12 @@
 
 
 .page__footer-img {
-  height: 100%; /* Make the image fill the footer height */
-  position: absolute; /* Position the image relative to the footer */
+  position: absolute; /* Position it within the footer */
   bottom: 0;
-  right: 0;
-  object-fit: cover; /* Ensure the image maintains aspect ratio while filling height */
+  right: 0; 
+  height: 100%; /* Make the image fill the footer height */
+  width: auto;
+  object-fit: contain;
 }
 
 .page__footer-img-2 {
