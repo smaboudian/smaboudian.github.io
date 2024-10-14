@@ -3,16 +3,16 @@
    ========================================================================== */
 .page__footer {
   @include clearfix;
-  position: fixed; /* Ensures the footer stays fixed at the bottom */
-  bottom: 0; /* Attach to the bottom */
+  position: fixed; /* Ensure the footer remains at the bottom */
+  bottom: 0;
   left: 0;
-  width: 100%; /* Full width to span across */
-  height: 50px; /* Adjust as necessary */
-  background-color: $background-color; /* Ensure the background is visible */
+  width: 100%; /* Full width */
+  height: 50px; /* Adjust height as needed */
+  background-color: $background-color !important; /* Force the background color */
   border-top: 1px solid $light-gray;
-  z-index: 1000; /* Ensure the footer stays above other elements */
-  margin: 0; /* Remove extra margins */
-  padding: 0; /* Remove padding if unnecessary */
+  z-index: 1000; /* Keep the footer on top of other elements */
+  margin: 0;
+  padding: 0;
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
@@ -23,7 +23,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 1em; /* Add more if needed */
+    padding: 0 1em; /* Adjust padding if needed */
     max-width: $x-large;
 
     @include breakpoint($x-large) {
@@ -48,13 +48,19 @@
   }
 }
 
-/* Ensure the footer image fills the bottom right */
+/* To ensure the footer image properly fills the bottom-right corner */
 .page__footer-img {
-  position: absolute; /* Ensure positioning */
+  position: absolute; /* Absolute positioning */
   right: 0;
   bottom: 0;
-  height: 100%; /* Match the height of the footer */
+  height: 100%; /* Fill the footer's height */
   width: auto; /* Maintain aspect ratio */
+  z-index: 999; /* Ensure it's behind text if needed */
+}
+
+/* Add a wrapper around the rest of the page content */
+.page__content {
+  padding-bottom: 60px; /* Give enough space for the fixed footer */
 }
 
 
