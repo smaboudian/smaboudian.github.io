@@ -29,7 +29,7 @@ Traditional neuroanatomy studies have largely overlooked small, shallow, and hig
   <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
   <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (In revision)</li>
   <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
-  <li>Hastings III WL,Willbrand EH, Kelly JP, Washington ST, Tameilau PT, Sathishkumar RN, <b>Maboudian SA</b>, Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Accepted)</li>
+  <li>Hastings III WL, Willbrand EH, Kelly JP, Washington ST, Tameilau PT, Sathishkumar RN, <b>Maboudian SA</b>, Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Accepted)</li>
 </ul>
 
 <hr>
