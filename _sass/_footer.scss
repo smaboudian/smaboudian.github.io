@@ -59,7 +59,16 @@
   font-size: $type-size-7;
 }
 
+
 .page__footer-img {
+  height: 100%; /* Make the image fill the footer height */
+  position: absolute; /* Position the image relative to the footer */
+  bottom: 0;
+  right: 0;
+  object-fit: cover; /* Ensure the image maintains aspect ratio while filling height */
+}
+
+.page__footer-img-2 {
    img {
     max-width: 10%; /* Make the image responsive */ 
     max-height: 10%; /* Ensure it doesn't exceed the footer height */ 
