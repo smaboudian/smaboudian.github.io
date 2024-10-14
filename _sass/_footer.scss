@@ -1,31 +1,30 @@
 /* ==========================================================================
    FOOTER
    ========================================================================== */
-
 .page__footer {
   @include clearfix;
-  position: relative; /* Ensure positioning context for absolutely positioned elements */
-  width: 100%;
-  clear: both;
-  height: 50px; /* Keep fixed height or adjust as needed */
-  margin-top: 3em;
+  position: fixed; /* Ensures the footer stays fixed at the bottom */
+  bottom: 0; /* Attach to the bottom */
+  left: 0;
+  width: 100%; /* Full width to span across */
+  height: 50px; /* Adjust as necessary */
+  background-color: $background-color; /* Ensure the background is visible */
+  border-top: 1px solid $light-gray;
+  z-index: 1000; /* Ensure the footer stays above other elements */
+  margin: 0; /* Remove extra margins */
+  padding: 0; /* Remove padding if unnecessary */
   color: mix(#fff, $gray, 25%);
   -webkit-animation: intro 0.3s both;
   animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
-  background-color: $background-color;
-  border-top: 1px solid $light-gray;
 
-  /* Removed float and bottom */
-  
   footer {
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
-    max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em; /* Add more if needed */
+    max-width: $x-large;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -49,19 +48,19 @@
   }
 }
 
+/* Ensure the footer image fills the bottom right */
+.page__footer-img {
+  position: absolute; /* Ensure positioning */
+  right: 0;
+  bottom: 0;
+  height: 100%; /* Match the height of the footer */
+  width: auto; /* Maintain aspect ratio */
+}
+
+
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
-}
-
-.page__footer-img {
-  position: absolute; /* Position it absolutely within the footer */
-  bottom: 0; /* Align to bottom */
-  right: 0; /* Align to right */
-  height: 100%; /* Fill the height of the footer */
-  object-fit: cover; /* Cover the available space without distortion */
-  z-index: -1; /* Send the image to the background, behind other content */
-  opacity: 0.8; /* Optional: to make the image blend subtly */
 }
 
 .page__footer-img-v2 {
