@@ -58,6 +58,12 @@
   font-size: $type-size-7;
 }
 
+.page__footer-img {
+    bottom:0!important;
+    right: 0!important;
+    padding: 0!important;
+}
+
 .page__footer-follow {
   ul {
     margin: 0;
