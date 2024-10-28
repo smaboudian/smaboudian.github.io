@@ -255,17 +255,18 @@
 
    .btn-title {
         /* font-size: $type-size-6;  */
-        font-size: clamp(0.875rem, 2vw, 1.25rem); /* Responsive font size: min 1rem, preferred 2.5% of viewport width, max 1.5rem */
+        font-size: clamp(0.75rem, 1.7vw, 1rem); /* Responsive font size: min .75rem, preferred 1.7% of viewport width, max 1rem */
         font-weight: bold;
         text-decoration: none; /* Remove underline from hyperlink */
     }
 
    .btn-subtitle {
         /* font-size: $type-size-7; /* Smaller than the title */
-        font-size: clamp(0.75rem, 1.7vw, 1rem); /* Smaller than title, responsive */
+        font-size: clamp(0.45rem, 1.25vw, 0.65rem); /* Smaller than title, responsive */
         font-weight: normal; 
         opacity: 0.7; /* Make subtitle lighter */
         text-decoration: none; /* Remove underline from hyperlink */
+        margin-top: 0.5rem; /* Add space between title and subtitle */
     }
 
 
