@@ -19,13 +19,13 @@ author_profile: true
     </a>
     <a href="https://docs.google.com/presentation/d/1xx68x9NdjTptKLoYxSeCV4b2dG8d8H97uaNKjERY3HU/edit?usp=sharing" class="btn">  
         <img src="/images/icons/brain1.svg" alt="brain" class="btn-image">
-        <span class="btn-title">Neuroanatomy lesson</span>
-        <span class="btn-subtitle">example 5th grade lesson</span>
+        <span class="btn-title">Neuroanatomy: Parts of the Brain</span>
+        <span class="btn-subtitle">5th grade lesson</span>
     </a>
     <a href="https://docs.google.com/presentation/d/1Z7lQ3A3liloV2htVPOQ6uZy_-V45WHaoqtWMyD_yMsc/edit?usp=sharing" class="btn">   
         <img src="/images/icons/brain_skull.svg" alt="brain skull" class="btn-image">
-        <span class="btn-title">Clinical Cognitive Neuroscience lesson</span>
-        <span class="btn-subtitle">example high school lesson</span>
+        <span class="btn-title">Clinical Cognitive Neuroscience</span>
+        <span class="btn-subtitle">high school guest lecture</span>
     </a>
 </div>
 
