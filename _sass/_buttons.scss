@@ -242,3 +242,22 @@
   }
 }
 
+
+/* title & subtitle. ensure proper alignment for multiple lines */
+    .btn-title,
+    .btn-subtitle {
+        display: block;
+        line-height: 1.2;
+    }
+
+    .btn-title {
+        font-size: $type-size-6; /* Adjust as needed */
+        font-weight: bold;
+    }
+
+    .btn-subtitle {
+        font-size: $type-size-7; /* Smaller than the title */
+        opacity: 0.8; /* Optional, to make subtitle lighter */
+    }
+
+
