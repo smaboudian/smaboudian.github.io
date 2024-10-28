@@ -14,8 +14,8 @@ author_profile: true
 <div class="button-grid">  
     <a href="https://ucb-psychology-quack.github.io/site/QuACK2023/QuACK2023" class="btn">   
         <img src="/images/icons/duck.svg" alt="duck" class="btn-image">
-        <span class="btn-title">Quantitative Analysis & Coding Knowledge (QuACK)</span>
-        <span class="btn-subtitle">UCB Psych 298 course lesson bank</span>
+        <span class="btn-title">Quant. Analysis & Coding Knowledge (QuACK)</span>
+        <span class="btn-subtitle">UCB Psych 298 lesson bank</span>
     </a>
     <a href="https://docs.google.com/presentation/d/1xx68x9NdjTptKLoYxSeCV4b2dG8d8H97uaNKjERY3HU/edit?usp=sharing" class="btn">  
         <img src="/images/icons/brain1.svg" alt="brain" class="btn-image">
