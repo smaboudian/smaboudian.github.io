@@ -217,6 +217,7 @@
   justify-content: center;
   padding: 1rem;
   text-align: center;
+  text-decoration: none; /* Remove underline from hyperlink */
   background-color: $link-color !important;
   border-radius: $border-radius;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -230,8 +231,10 @@
   }
 
   img {
-    max-width: 50px;
-    margin-bottom: 0.5rem;
+    max-width: 60px; /* Set a maximum width for the image */
+     width: 100%; /* Allow the image to scale down proportionally */
+     height: auto; /* Maintain the aspect ratio */
+     margin-bottom: 0.5rem;
   }
 
   p {
@@ -251,13 +254,17 @@
     }
 
    .btn-title {
-        font-size: $type-size-6; /* Adjust as needed */
+        /* font-size: $type-size-6;  */
+        font-size: clamp(1rem, 2.5vw, 1.5rem); /* Responsive font size: min 1rem, preferred 2.5% of viewport width, max 1.5rem */
         font-weight: bold;
+        text-decoration: none; /* Remove underline from hyperlink */
     }
 
    .btn-subtitle {
-        font-size: $type-size-7; /* Smaller than the title */
-        opacity: 0.8; /* Optional, to make subtitle lighter */
+        /* font-size: $type-size-7; /* Smaller than the title */
+        font-size: clamp(0.875rem, 2vw, 1.25rem); /* Smaller than title, responsive */
+        opacity: 0.8; /* Make subtitle lighter */
+        text-decoration: none; /* Remove underline from hyperlink */
     }
 
 
