@@ -46,7 +46,7 @@ The decisions we make are often open-ended, relying on options we generate ourse
 <ul>
   <li>Zhang Z, <b>Maboudian SA</b>, Jackson A, Ngo S, Manivannan M, Kayser AS, Hsu M, Chiong W. Mechanistic contributions of memory to decision-making impairments in Alzheimer’s disease. (in prep) </li>
   <li>Kayser A, Zhang Z, <b>Maboudian S</b>, Jackson A, Ngo S, Chiong W, Hsu M. Open-ended, value-based decision making requires semantic memory: a computational, imaging, and clinical study (P1-6.005) [abstract]. <i>Neurology.</i> 2022;98(18 Supplement):534.</li>
-  <li><b>Maboudian S,</b> Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799. <li>
+  <li><b>Maboudian S,</b> Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799.</li>
 
 </ul>
 
