@@ -15,7 +15,7 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
 <p>Related Publications:</p>
 <ul>
   <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
-  <li>Maboudian S, Fonseca C, Chao Y, Martersteck A, Tosun D, Grinberg L, Weiner K, Jagust W. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
+  <li><b>Maboudian SA,</b> Fonseca CS, Chao Y, Martersteck AC, Tosun D, Grinberg LT, Weiner KS, Jagust WJ. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
 
 </ul>
 
