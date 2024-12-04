@@ -10,11 +10,13 @@ author_profile: true
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 <a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/images/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="50%"></a>
 <br>
-Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we investigate relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
+Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we are investigating relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
 
 <p>Related Publications:</p>
 <ul>
   <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
+  <li>Maboudian S, Fonseca C, Chao Y, Martersteck A, Tosun D, Grinberg L, Weiner K, Jagust W. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
+
 </ul>
 
 <hr>
@@ -27,9 +29,11 @@ Traditional neuroanatomy studies have largely overlooked small, shallow, and hig
 <p>Related Publications:</p>
 <ul>
   <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
-  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to a transdiagnostic predictor of psychopathology. (In revision)</li>
-  <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
-  <li>Hastings III WL, Willbrand EH, Kelly JP, Washington ST, Tameilau PT, Sathishkumar RN, <b>Maboudian SA</b>, Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. (Accepted)</li>
+  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to trait impulsivity. <i>Biol Psychiatry CNNI.</i> (in press).</li>
+  <li>Hastings III WL, Willbrand EH,… <b>Maboudian SA,</b> Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. <i>Cortex</i> 2024;181:140-154.</li>
+  <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (In revision)</li>
+  <li><b>Maboudian SA*,</b> Pracar AL*, Dronkers NF, Weiner KS. Sulcal correlates of language processing and recovery in aphasia. (in prep)</li>
+  <li>Toueg T*, <b>Maboudian SA*,</b> Ovaici N, Carhart-Harris R, Weiner KS. Individual sulcal variation predicts visual experience alterations with psilocybin in a transdiagnostic sample. (in prep)</li>
 </ul>
 
 <hr>
@@ -42,6 +46,8 @@ The decisions we make are often open-ended, relying on options we generate ourse
 <ul>
   <li>Zhang Z, <b>Maboudian SA</b>, Jackson A, Ngo S, Manivannan M, Kayser AS, Hsu M, Chiong W. Mechanistic contributions of memory to decision-making impairments in Alzheimer’s disease. (in prep) </li>
   <li>Kayser A, Zhang Z, <b>Maboudian S</b>, Jackson A, Ngo S, Chiong W, Hsu M. Open-ended, value-based decision making requires semantic memory: a computational, imaging, and clinical study (P1-6.005) [abstract]. <i>Neurology.</i> 2022;98(18 Supplement):534.</li>
+  <li><b>Maboudian S,</b> Hsu M, Zhang Z. Visualizing and Quantifying Longitudinal Changes in Verbal Fluency Using Recurrence Plots. <i>Front. Aging Neurosci.</i> 2022;14:810799. <li>
+
 </ul>
 
 
