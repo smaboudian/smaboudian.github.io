@@ -28,7 +28,7 @@ author_profile: true
         <span class="btn-subtitle">high school guest lecture</span>
     </a>
     <a href="https://github.com/smaboudian/sulcal-morph-demo" class="btn">   
-        <img src="/images/icons/brain0.svg" alt="brain" class="btn-image">
+        <img src="/images/icons/brain_question.svg" alt="brain" class="btn-image">
         <span class="btn-title">Sulcal Morphology Lab Demo</span>
         <span class="btn-subtitle">UCB Neuro Bootcamp: cognitive neuroscience lab</span>
     </a>
