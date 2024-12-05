@@ -25,7 +25,7 @@ author_profile: true
     <a href="https://docs.google.com/presentation/d/1xx68x9NdjTptKLoYxSeCV4b2dG8d8H97uaNKjERY3HU/edit?usp=sharing" class="btn">  
         <img src="/images/icons/brain1_v2.svg" alt="brain" class="btn-image">
         <span class="btn-title">Neuroanatomy: Parts of the Brain</span>
-        <span class="btn-subtitle">elementary school outreach leson: 5th grade</span>
+        <span class="btn-subtitle">elementary school outreach lesson: 5th grade</span>
     </a>
     <a href="https://docs.google.com/presentation/d/1Z7lQ3A3liloV2htVPOQ6uZy_-V45WHaoqtWMyD_yMsc/edit?usp=sharing" class="btn">   
         <img src="/images/icons/brain_skull_v2.svg" alt="brain skull" class="btn-image">
