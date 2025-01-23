@@ -167,33 +167,25 @@ hr {
 
 ul li,
 ol li {
-  margin-bottom: 0.02;
+  margin-bottom: 0;
 }
 
 li ul,
 li ol {
-  margin-top: 0.02;
+  margin-top: 0;
 }
 
 ul, ol {
-  margin-top: 0.02; /* Reduces spacing above lists */
-  margin-bottom: 0.3; /* Reduces spacing below lists */
+  margin-top: 0; /* Reduces spacing above lists */
+  margin-bottom: 0.2; /* Reduces spacing below lists */
   /* padding: 0;  Optional, removes indentation */
 }
 
 p, ul {
- /*  margin: 0; */
-  margin-top: 0.02;         // Ensures no extra space before the list
-  margin-bottom: 0.3;    // Adds desired space after the list
+  margin: 0;
   /* padding: 0; */
 }
 
-p, ol {
- /*  margin: 0; */
-  margin-top: 0.02;         // Ensures no extra space before the list
-  margin-bottom: 0.3;    // Adds desired space after the list
-  /* padding: 0; */
-}
 
 
 /*
