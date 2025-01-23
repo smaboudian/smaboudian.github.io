@@ -54,6 +54,7 @@ redirect_from:
 
 <h2>Publications &amp; Presentations</h2>
   <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
+  <p><i>*Equal contribution</i></p>
 
  <h3>Publications</h3>
   <ol>
@@ -84,7 +85,6 @@ redirect_from:
 	    <li>Zhang Z, <b>Maboudian SA</b>, Jackson A, Ngo S, Manivannan M, Kayser AS, Hsu M, Chiong W. Mechanistic contributions of memory to decision-making impairments in Alzheimer’s disease. (in prep)</li>
     </ol>
     
-  <p><i>*Equal contribution</i></p>
 
 
 <h2>Teaching</h2>
