@@ -19,6 +19,7 @@ Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerabl
 
 </ul>
 
+<br>
 <hr>
 
 <h2>Tertiary sulci in evolution and disorder</h2>
@@ -36,6 +37,7 @@ Traditional neuroanatomy studies have largely overlooked small, shallow, and hig
   <li>Toueg T*, <b>Maboudian SA*,</b> Ovaici N, Carhart-Harris R, Weiner KS. Individual sulcal variation predicts visual experience alterations with psilocybin in a transdiagnostic sample. (in prep)</li>
 </ul>
 
+<br>
 <hr>
 
 
