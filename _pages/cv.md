@@ -31,19 +31,19 @@ redirect_from:
 
 
 <h2>Research Positions & Projects</h2>
-<p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley HWNI (May 2021 - present)
+<p><b>Ph.D. Thesis Research: Jagust Lab & Cognitive Neuroanatomy (Weiner) Lab,</b> UC Berkeley (2021 - present)
       <ul>
         <li>Analyzing sulcal morphology in aging and Alzheimer’s Disease (AD) and relationships between individual variability in cortical folding (MRI), vulnerability to AD pathology (PET), and cognition</li>
       </ul></p>
 
-  <p><b>Ph.D. Rotation Projects:</b> UC Berkeley HWNI (Aug 2020 - May 2021)
+  <p><b>Ph.D. Rotation Projects:</b> UC Berkeley (2020 - 2021)
       <ul>
         <li>Jagust Lab (PI: William Jagust): Used machine learning models to generate age predictions based on human structural MRI scans, and examined relationship between predicted age and dopamine PET measures, amyloid and tau levels.</li>
         <li>Cognitive Neuroanatomy Lab (PI: Kevin Weiner): Learned advanced MRI processing and neuroanatomy methods and applied them to an AD dataset. Discovered several new medial parietal cortex sulci, and found that individual differences in medial parietal cortex sulcal morphology relate to cognitive decline in AD. </li>
         <li>Neuroecon Lab (PI: Ming Hsu) + UCSF Decision Lab (PI: Winstion Chiong): Analyzed and modeled effects of aging, dementia, and memory abilities on decision-making; discovered that the amount of semantic memory impairment correlates with decision-making deficit in dementia.</li>
       </ul></p>
 
-<p><b>Pre-Ph.D. Research Positions:</b> UC Berkeley HWNI (Aug 2020 - May 2021)</p>
+<p><b>Pre-Ph.D. Research Positions:</b> </p>
 <ul>
   <li>Research Associate: Neuroecon (Hsu) Lab, UC Berkeley (2018-2020)</li>
   <li>Amgen Scholar: Dranovsky Lab, Columbia University (2018)</li>
@@ -55,7 +55,7 @@ redirect_from:
 <h2>Publications &amp; Presentations</h2>
   <p><a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ"><i>Google Scholar</i></a></p>
 
-<p><b>Publications</b></p>
+ <h3>Publications</h3>
   <ol>
 	    <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
 	    <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
@@ -65,9 +65,10 @@ redirect_from:
 	    <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (Submitted)</li>
     </ol>
 
-<p><b>Select Posters & Presentations</b></p>
+<h3>Select Posters & Presentations</h3>
   <ol>
-	    <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. <i>Talk presented at 2024 ADRC Researchers' Symposium, UC Davis.</i></li>
+	   <li>“Tau-related cortical thinning is concentrated in sulcal depths.” Presented at Human Amyloid Imaging 2025; Puerto Rico.</li>
+	   <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. <i>Presented at 2024 ADRC Researchers' Symposium; Davis, CA.</i></li>
 	    <li>Maboudian S*, Willbrand E*, Kellerman G, Elliot M, Johnson S, Weiner K. A hominoid-specific brain structure is related to a transdiagnostic predictor of psychopathology. <i>Society for Neuroscience 2024.</i> Poster #418.19.</li>
 	    <li>Maboudian S*, Pracar A*, Biondo N, Dronkers N, Weiner S. Investigating sulcal correlates of language processing. <i>Society for Neuroscience 2024.</i> Poster #193.22.</li>
 	    <li>Maboudian S, Parker B, Weiner K, Jagust W. Tau-related cortical thinning is concentrated in sulcal depths. <i>Alzheimer’s Association International Conference (AAIC) 2024.</i> Poster #M892.</li>
@@ -76,10 +77,10 @@ redirect_from:
 	    <li>Maboudian S, Willbrand E, Jagust W, Weiner K. Tertiary sulci in medial parietal cortex are particularly vulnerable to atrophy in aging and Alzheimer's disease. <i>Society for Neuroscience 2022.</i> Poster #445.03</li>
     </ol>
 
-<p><b>Select Work in Progress</b></p>
+<h3>Select Work in Progress</h3>
   <ol>
-	    <li><b>Maboudian SA</b>, Martersteck AC, Chao Y, Parker BJ, Grinberg LT, Weiner KS, Jagust WJ. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
-	    <li><b>Maboudian SA*</b>, Pracar AL*, Dronkers NF, Weiner KS. Sulcal morphology of language regions. (in prep)</li>
+	    <li><b>Maboudian SA</b>, Fonseca CS, Chao Y, Martersteck AC, Tosun D, Grinberg LT, Weiner KS, Jagust WJ. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
+	    <li><b>Maboudian SA*</b>, Pracar AL*, Dronkers NF, Weiner KS. Sulcal correlates of language processing (in prep)</li>
 	    <li>Zhang Z, <b>Maboudian SA</b>, Jackson A, Ngo S, Manivannan M, Kayser AS, Hsu M, Chiong W. Mechanistic contributions of memory to decision-making impairments in Alzheimer’s disease. (in prep)</li>
     </ol>
     
