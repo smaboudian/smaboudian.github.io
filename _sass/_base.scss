@@ -162,26 +162,36 @@ hr {
   border-top: 1px solid $border-color;
 }
 
+
 /* lists */
 
 ul li,
 ol li {
-  margin-bottom: 0;
+  margin-bottom: 0.02;
 }
 
 li ul,
 li ol {
-  margin-top: 0;
+  margin-top: 0.02;
 }
 
 ul, ol {
-  margin-top: 0; /* Reduces spacing above lists */
+  margin-top: 0.02; /* Reduces spacing above lists */
   margin-bottom: 0.2; /* Reduces spacing below lists */
   /* padding: 0;  Optional, removes indentation */
 }
 
 p, ul {
-  margin: 0;
+ /*  margin: 0; */
+  margin-top: 0.02;         // Ensures no extra space before the list
+  margin-bottom: 0.2;    // Adds desired space after the list
+  /* padding: 0; */
+}
+
+p, ol {
+ /*  margin: 0; */
+  margin-top: 0.02;         // Ensures no extra space before the list
+  margin-bottom: 0.2;    // Adds desired space after the list
   /* padding: 0; */
 }
 
