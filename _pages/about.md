@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <img src="/images/headers/About_me.png" alt="About me" width="475"/>
-
+<br>
 
 I'm a 5th-year PhD Candidate and NIH (NIA) F31 Fellow in the [Department of Neuroscience & Helen Wills Neuroscience Institute](https://neuroscience.berkeley.edu/) at UC Berkeley studying aging, Alzheimer's disease and neuroanatomy in the [Jagust Lab](https://jagustlab.neuro.berkeley.edu/) and the [Cognitive Neuroanatomy (Weiner) Lab](https://cnl.berkeley.edu/). Broadly, my interests include clinical applications of human neuroimaging and neuroanatomy research, with a particular focus on Alzheimer's disease and related dementias. My PhD thesis work investigates how individual differences in the anatomy of the sulci (folds) of the brain affect cognitive and pathological trajectories in aging and Alzheimer's disease.  
 <br>
