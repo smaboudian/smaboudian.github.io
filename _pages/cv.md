@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<img src="/images/headers/CV.png" alt="CV" width="425"/>
 
 
 [ view CV as PDF ](https://drive.google.com/file/d/1S7a7i9yQNCTvyeSS9gcK3c1edmvrk4un/view?usp=sharing){: .btn--cv}
