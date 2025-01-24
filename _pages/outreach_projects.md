@@ -10,7 +10,6 @@ author_profile: true
 <img src="/images/headers/Outreach.png" alt="Outreach" width="425"/>
 
 <h2>Teaching & Science Education: example lessons</h2>
-
 <!-- button grid -->
 <div class="button-grid">  
     <a href="https://ucb-psychology-quack.github.io/site/QuACK2023/QuACK2023" class="btn">   
