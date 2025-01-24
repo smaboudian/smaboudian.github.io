@@ -206,7 +206,7 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 1rem;
-  padding: 2rem;
+  padding: 1rem;
 }
 
 /* Individual Buttons in the Grid */
@@ -223,6 +223,7 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   cursor: pointer;
+  margin-top: 0; 
   
   &:hover {
     transform: translateY(-5px);
