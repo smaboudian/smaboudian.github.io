@@ -49,7 +49,7 @@ author_profile: true
     <a href="https://www.berkeleysciencereview.com/" class="btn">
         <img src="/images/icons/microscope.svg" alt="duck" class="btn-image">
         <span class="btn-title">Berkeley Science Review</span>
-        <span class="btn-subtitle">science magazine design team</span>
+        <span class="btn-subtitle">science magazine (design)</span>
     </a>
 
 </div>
