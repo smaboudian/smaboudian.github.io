@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Highlights from Select Research Projects"
+title: ""
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %} 
+<img src="/images/headers/Research.png" alt="Research" width="475"/>
 
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 <a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/images/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="50%"></a>
