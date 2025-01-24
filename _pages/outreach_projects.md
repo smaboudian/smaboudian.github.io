@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/headers/Outreach" alt="title: Outreach" width="475"/>
+<img src="/images/headers/Outreach.png" alt="Outreach" width="475"/>
 
 <h2>Teaching & Science Education: example lessons</h2>
 
