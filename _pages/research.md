@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %} 
+
 <img src="/images/headers/Research.png" alt="Research" width="475"/>
 
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
