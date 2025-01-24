@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Resources"
+title: ""
 permalink: /resources/
 author_profile: true
 ---
 
 {% include base_path %}
+<img src="/images/headers/Resources.png" alt="Resources" width="400"/>
 
 
 <h2>Applying to grad school:</h2>
