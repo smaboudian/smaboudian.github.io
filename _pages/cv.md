@@ -12,7 +12,7 @@ redirect_from:
 <img src="/images/headers/CV.png" alt="CV" width="425"/>
 
 
-[ PDF ](https://drive.google.com/file/d/1S7a7i9yQNCTvyeSS9gcK3c1edmvrk4un/view?usp=sharing){: .btn--cv}
+[ view CV as PDF ](https://drive.google.com/file/d/1S7a7i9yQNCTvyeSS9gcK3c1edmvrk4un/view?usp=sharing){: .btn--cv}
 <h2>Education</h2>
 <ul>
         <li><b>Ph.D. Candidate, Neuroscience</b>: UC Berkeley (Fall 2020–Present)</li>
