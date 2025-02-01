@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: ""
+title: "Outreach Projects"
 permalink: /outreach_projects/
 author_profile: true
 ---
 
 {% include base_path %}
-
-<img src="/images/headers/Outreach.png" alt="Outreach" width="400"/>
 
 <h2>Teaching & Science Education: example lessons</h2>
 <!-- button grid -->
