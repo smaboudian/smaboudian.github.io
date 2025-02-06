@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-[ view CV as PDF ](https://drive.google.com/file/d/1S7a7i9yQNCTvyeSS9gcK3c1edmvrk4un/view?usp=sharing){: .btn--cv}
+[ view as PDF ](https://drive.google.com/file/d/1S7a7i9yQNCTvyeSS9gcK3c1edmvrk4un/view?usp=sharing){: .btn--cv}
 <h2>Education</h2>
 <ul>
         <li><b>Ph.D. Candidate, Neuroscience</b>: UC Berkeley (Fall 2020–Present)</li>
@@ -69,7 +69,7 @@ redirect_from:
 
 <h3>Select Posters & Presentations</h3>
   <ol>
-	   <li>“Tau-related cortical thinning is concentrated in sulcal depths.” Presented at Human Amyloid Imaging 2025; Puerto Rico.</li>
+	   <li>“Tau-related cortical thinning is concentrated in sulcal depths.” <i>Presented at Human Amyloid Imaging 2025; Puerto Rico.</i></li>
 	   <li>Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer's Disease. <i>Presented at 2024 ADRC Researchers' Symposium; Davis, CA.</i></li>
 	    <li>Maboudian S*, Willbrand E*, Kellerman G, Elliot M, Johnson S, Weiner K. A hominoid-specific brain structure is related to a transdiagnostic predictor of psychopathology. <i>Society for Neuroscience 2024.</i> Poster #418.19.</li>
 	    <li>Maboudian S*, Pracar A*, Biondo N, Dronkers N, Weiner S. Investigating sulcal correlates of language processing. <i>Society for Neuroscience 2024.</i> Poster #193.22.</li>
@@ -100,8 +100,8 @@ redirect_from:
 <h2>Departmental Service</h2>
   <ul>
     <li><b>HWNI PhD Program Steering Committee</b> (2023-): One of 2 student representatives of the Committee, which oversees program operation and updates</li>
-    <li><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2021): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</li>
-    <li><b>HWNI Bootcamp Committee</b> (2021-2022): (2021) Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); (2022) developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</li>
+    <li><b>HWNI Diversity, Equity, & Inclusion Committee </b> (2020-2024): Organized DE&I trainings for the first-year curriculum and broader neuroscience community; applied for grants to fund research programs for students from minority-serving institutions; organized application workshop for prospective applicants</li>
+    <li><b>HWNI Bootcamp Committee</b> (2021-2022): Planned first-year Neuroscience Bootcamp events and activities (labs, lectures, socials, etc.); developed hands-on cognitive neuroscience lab lesson (introduction to brain imaging analysis methods and human neuroanatomy)</li>
     <li><b>HWNI Recruitment Committee</b> (2020-): Planned recruitment and interview events for PhD admissions</li>
   </ul>
 
@@ -109,7 +109,7 @@ redirect_from:
 <h2>Outreach</h2>
 <p><b>Steering Committee Member & Team Lead, Community Resources for Science (CRS)</b> (2020-)
   <ul>
-        <li><a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a> is a program by Community Resources for Science (CRS), a nonprofit organization that brings science education resources to Bay Area TK-8 schools</li>
+        <li>Steering Committee Member for <a href="https://www.crscience.org/educators/BASIS">Bay Area Scientists Inspiring Students (BASIS)</a>, a program that brings science education resources to Bay Area TK-8 schools</li>
 	<li>Campus Steering Committee Member: lead campus outreach recruitment and coordination</li>
         <li>Team Lead and Instructor: responsible for training team of teachers, scheduling lessons, & teaching</li>
         <li>Lesson Developer: created neuroscience lesson based on state teaching standards; lesson has been taught to >800 local students by my team, in both English and Spanish</li>
