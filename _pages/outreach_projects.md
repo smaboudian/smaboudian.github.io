@@ -16,7 +16,7 @@ author_profile: true
         <span class="btn-subtitle">UCB Psych 298 lesson bank</span>
     </a>
     <a href="https://github.com/smaboudian/sulcal-morph-demo" class="btn">   
-        <img src="/images/icons/brain_question.svg" alt="brain" class="btn-image">
+        <img src="/images/icons/brain_skull_v2.svg" alt="brain in skull" class="btn-image">
         <span class="btn-title">Sulcal Morphology Lab Demo</span>
         <span class="btn-subtitle">UCB Neuro Bootcamp: cognitive neuroscience lab</span>
     </a>
@@ -26,7 +26,7 @@ author_profile: true
         <span class="btn-subtitle">elementary school outreach lesson (5th grade)</span>
     </a>
     <a href="https://docs.google.com/presentation/d/1Z7lQ3A3liloV2htVPOQ6uZy_-V45WHaoqtWMyD_yMsc/edit?usp=sharing" class="btn">   
-        <img src="/images/icons/brain_skull_v2.svg" alt="brain skull" class="btn-image">
+        <img src="/images/icons/brain_question.svg" alt="skull" class="btn-image">
         <span class="btn-title">Clinical Cognitive Neuroscience</span>
         <span class="btn-subtitle">high school neuroscience course guest lecture</span>
     </a>
@@ -38,13 +38,13 @@ author_profile: true
 <!-- button grid -->
 <div class="button-grid">  
     <a href="https://pickingbrains.github.io/" class="btn">
-        <img src="/images/icons/flask.svg" alt="duck" class="btn-image">
+        <img src="/images/icons/flask.svg" alt="flask" class="btn-image">
         <!-- <i class="fas fa-brain btn-icon"></i> -->
         <span class="btn-title">Picking Brains</span>
         <span class="btn-subtitle">neuroscience PI interview series project</span>
     </a>
     <a href="https://www.berkeleysciencereview.com/" class="btn">
-        <img src="/images/icons/microscope.svg" alt="duck" class="btn-image">
+        <img src="/images/icons/microscope.svg" alt="microscope" class="btn-image">
         <span class="btn-title">Berkeley Science Review</span>
         <span class="btn-subtitle">science magazine (design)</span>
     </a>
