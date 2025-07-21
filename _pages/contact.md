@@ -9,6 +9,8 @@ author_profile: true
 
 <img src="/images/headers/contact-header.png" alt="contact" width="400"/>
 
+<br>
+
 Email: <a href="mailto:smaboudian@berkeley.edu">smaboudian@berkeley.edu</a> 
 
 <a href="https://scholar.google.com/citations?hl=en&user=9jjZDs4AAAAJ">Google Scholar</a> 
