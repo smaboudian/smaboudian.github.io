@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Contact me</h2>
+<h1>Contact me</h1>
 
 <br>
 
