@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h2>Contact</h2>
+<img src="/images/headers/contact.png" alt="contact" width="400"/>
 
 Email: <a href="mailto:smaboudian@berkeley.edu">smaboudian@berkeley.edu</a> 
 
@@ -17,5 +17,5 @@ Email: <a href="mailto:smaboudian@berkeley.edu">smaboudian@berkeley.edu</a>
 
 <a href="https://www.linkedin.com/in/samira-maboudian/">LinkedIn</a> 
 
-<a href="https://bsky.app/profile/sciencesamira.bsky.social">Blue Sky</a> 
+<a href="https://bsky.app/profile/sciencesamira.bsky.social">Bluesky</a> 
 
