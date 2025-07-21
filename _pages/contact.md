@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: "Contact"
+title: ""
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<h2>Contact me</h2>
 
 <br>
 
