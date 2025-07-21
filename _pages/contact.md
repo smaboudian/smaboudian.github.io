@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<img src="/images/headers/contact-header.png" alt="contact" width="400"/>
 
 <br>
 
