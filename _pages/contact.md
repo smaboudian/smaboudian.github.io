@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-<img src="/images/headers/contact.png" alt="contact" width="400"/>
+<img src="/images/headers/contact-header.png" alt="contact" width="400"/>
 
 Email: <a href="mailto:smaboudian@berkeley.edu">smaboudian@berkeley.edu</a> 
 
