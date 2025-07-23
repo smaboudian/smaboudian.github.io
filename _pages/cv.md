@@ -124,7 +124,7 @@ redirect_from:
         <li>Graphic design and scientific illustration for <i>Berkeley Science Review</i> science magazine</li>
   </ul>
 
-<p><b>Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference</b> (2023-)
+<p><b>Workshop Developer and Leader, UC Berkeley Expanding Your Horizons (EYH) Conference</b> (2023)
   <ul>
         <li>Developed and taught neuroanatomy workshop for <a href="https://eyh.berkeley.edu/">EYH</a>, a conference to introduce middle-school girls to STEM fields</li>
   </ul></p>	    
