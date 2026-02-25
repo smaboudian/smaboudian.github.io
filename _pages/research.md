@@ -7,16 +7,30 @@ author_profile: true
 
 {% include base_path %} 
 
+<h2>Sulcal vulnerability to tau pathology in Alzheimer's disease (AD)</h2>
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/ana.78166?utm_medium=article&utm_source=researchgate.net"><img src="/images/project_figs/AnnalsNeurol_Fig1.png" alt="Maboudian et al., Annals Neurol 2026 Figure 1" style="50%"></a>
+<br>
+Prior research suggests the sulci (folds) of the cortex are uniquely affected by age- and AD-related morphological changes and amyloid pathology, but the pattern of vulnerability to tau pathology and its effects on cognition are incompletely understood. A pathological hallmark of another tauopathy, chronic traumatic encephalopathy (CTE), is tau pathology in sulcal depths, but it is unclear to what extent this may be the case in AD as well. In this project we examine whether tau pathology and tau-related cortical thinning in AD also preferentially affect sulcal regions, and whether this vulnerability may be related to connectivity patterns.
+<h3>Related Publications:</h3>
+<ul>
+  <li><b>Maboudian SA,</b> Fonseca CS, Martersteck AC, Chao Y, Chen Y, Ushizima D, Tosun D, Grinberg LT, Weiner KS, Jagust WJ. Tau pathology in Alzheimer's Disease uniquely affects sulcal depths. <i>Annals of Neurology</i> 2026 (In press)</li>
+
+</ul>
+
+<br>
+<hr>
+
+
+
 <h2>Individual differences in sulcal morphology in aging and Alzheimer's disease (AD)</h2>
 <a href="https://www.jneurosci.org/content/44/16/e1714232024"><img src="/images/project_figs/JNeuro2024_F1-2.png" alt="Maboudian et al., JNeurosci 2024 Figure 1 + 2" style="50%"></a>
 <br>
-Recent work suggests that the sulci (folds) of the cortex are uniquely vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci — the smallest, shallowest, and most individually-variable indentations — have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we are investigating relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive and pathological changes in aging and AD.
+Recent work, including the above project, suggests that sulci are vulnerable to atrophy and pathology in aging and AD. However, these studies focus only on the largest, deepest, and most consistent sulci across individuals. Tertiary sulci (the smallest, shallowest, latest-developing and most individually-variable indentations) have been associated with the development of human-specific aspects of cognition and with symptoms of diseases such as schizophrenia and frontotemporal dementia, but have not been investigated in normal aging or AD. In this project, we are investigating relationships between individual differences in sulcal morphology (including tertiary sulci) and cognitive changes in aging and AD. 
 
 <h3>Related Publications:</h3>
 <ul>
   <li><b>Maboudian SA</b>, Willbrand EH, Kelly JP, Jagust WJ, Weiner KS. Defining overlooked structures reveals new associations between cortex and cognition in aging and Alzheimer’s disease. <i>J Neurosci.</i> 2024; 44(16):e1714232024</li>
-  <li><b>Maboudian SA,</b> Fonseca CS, Chao Y, Martersteck AC, Tosun D, Grinberg LT, Weiner KS, Jagust WJ. Tau-related atrophy patterns uniquely involve sulcal depths. (in prep)</li>
-	<li><b>Maboudian SA</b>, Willbrand EH, Kellerman GK, Weiner KS, Jagust WJ. Variable presence of an evolutionarily new brain structure is associated with successful cognitive aging. (in prep)</li>
+	<li><b>Maboudian SA</b>, Willbrand EH, Kellerman GK, Pezzoli S, Weiner KS, Jagust WJ. Variable presence of an evolutionarily new brain structure is associated with successful cognitive aging. (In revision)</li>
 
 </ul>
 
@@ -31,11 +45,12 @@ Traditional neuroanatomy studies have largely overlooked small, shallow, and hig
 <h3>Related Publications:</h3>
 <ul>
   <li>Willbrand EH*, <b>Maboudian SA*</b>, Kelly JP, Parker BJ, Foster B, Weiner KS. Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees. <i>Commun biol.</i> 2023; 6(1), 586</li>
-  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to trait impulsivity. <i>Biol Psychiatry CNNI.</i> (in press).</li>
-  <li>Hastings III WL, Willbrand EH,… <b>Maboudian SA,</b> Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. <i>Cortex</i> 2024;181:140-154.</li>
+  <li>Willbrand EH, <b>Maboudian SA</b>, Kellerman GK, Elliott MV, Johnson SL, Weiner KS. Variable presence of an evolutionarily new brain structure is related to trait impulsivity. <i>Biol Psychiatry CNNI.</i> 2026; 11(1):8-16.</li>
+  <li>Willbrand EH, Martinez E, Ludwig JJ, <b>Maboudian SA</b>, Weiner KS. Anterior cingulate folding pattern is altered in autism spectrum disorder. <i>Cerebral Cortex</i> 2026 (Accepted)</li>
+  <li>Hastings III WL, Willbrand EH,…, <b>Maboudian SA,</b> Parker BJ, Elliott MV, Johnson SL, Weiner KS. Emotion-related impulsivity is related to orbitofrontal cortical sulcation. <i>Cortex</i> 2024;181:140-154.</li>
   <li>Kelly JP, Willbrand EH, Chen X, <b>Maboudian SA</b>, Parker BJ, Jiahui G, Garrido L, Zhen S, Duchaine B, Weiner KS. Overlooked sulci in human posteromedial cortex are related to face processing. (In revision)</li>
   <li><b>Maboudian SA*,</b> Pracar AL*, Dronkers NF, Weiner KS. Sulcal correlates of language processing and recovery in aphasia. (in prep)</li>
-  <li>Toueg T*, <b>Maboudian SA*,</b> Ovaici N, Carhart-Harris R, Weiner KS. Individual sulcal variation predicts visual experience alterations with psilocybin in a transdiagnostic sample. (in prep)</li>
+  <li>Toueg TN*, <b>Maboudian SA*,</b> Ovaici N, Jagust WJ, Carhart-Harris R, Weiner KS, Silver M. Individual sulcal variation predicts visual experience alterations with psilocybin in a transdiagnostic sample. (in prep)</li>
 </ul>
 
 <br>
