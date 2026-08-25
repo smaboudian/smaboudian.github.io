@@ -21,7 +21,7 @@ repository               : "smaboudian/smaboudian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hc2.png"
   name             : "Samira Maboudian"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate & NIA F31 Fellow"
